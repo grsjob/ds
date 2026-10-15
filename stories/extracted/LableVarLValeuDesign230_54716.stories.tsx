@@ -1,0 +1,7 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { LableVarLValeuDesign230_54716, variants } from '../../src/figma/LableVarLValeuDesign230_54716';
+const meta={title:"Из макета/Lable/var/L/valeu · 230:54716",component:LableVarLValeuDesign230_54716,tags:["autodocs"],args:{variant:"230:54717",interactive:true},argTypes:{variant:{control:{type:"select",labels:Object.fromEntries(variants.map(v=>[v.id,v.name]))},options:variants.map(v=>v.id)},variantProps:{control:"object"},text:{control:"object"},interactive:{control:"boolean"}},parameters:{docs:{description:{component:"Прямой перенос TSX + CSS Modules из Lable/var/L/valeu. 45 вариантов. Заменяйте текст через text по имени слоя или ключу из layers.json. Геометрия сохранена из Figma. interactive воспроизводит только заданные переходы прототипа; бизнес-логику задаёт приложение."}}}} satisfies Meta<typeof LableVarLValeuDesign230_54716>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+const stateSamples=[{"id":"230:54717","label":"default"},{"id":"230:54718","label":"disabled"}] as const;
+export const States:Story={render:args=><div style={{display:"flex",flexWrap:"wrap",gap:24,alignItems:"flex-start"}}>{stateSamples.map(item=><div key={item.id}><p style={{fontSize:12,color:"#8f8b9a"}}>{item.label}</p><LableVarLValeuDesign230_54716 {...args} variant={item.id} variantProps={undefined} interactive={false}/></div>)}</div>};

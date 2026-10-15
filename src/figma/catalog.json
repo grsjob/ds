@@ -1,0 +1,932 @@
+[
+  {
+    "id": "227:2",
+    "name": "Text",
+    "component": "TextDesign227_2",
+    "variants": 10,
+    "jsxNodes": 20,
+    "cssClasses": 20,
+    "prototypeStates": 0,
+    "layers": 20
+  },
+  {
+    "id": "227:5",
+    "name": "Select/var",
+    "component": "SelectVarDesign227_5",
+    "variants": 564,
+    "jsxNodes": 7261,
+    "cssClasses": 212,
+    "prototypeStates": 34,
+    "layers": 7261
+  },
+  {
+    "id": "227:175",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_175",
+    "variants": 447,
+    "jsxNodes": 1813,
+    "cssClasses": 1129,
+    "prototypeStates": 10,
+    "layers": 1813
+  },
+  {
+    "id": "227:584",
+    "name": "Primitives/text/var",
+    "component": "PrimitivesTextVarDesign227_584",
+    "variants": 12,
+    "jsxNodes": 36,
+    "cssClasses": 36,
+    "prototypeStates": 0,
+    "layers": 36
+  },
+  {
+    "id": "227:648",
+    "name": "Lable/var/S/valeu",
+    "component": "LableVarSValeuDesign227_648",
+    "variants": 46,
+    "jsxNodes": 172,
+    "cssClasses": 54,
+    "prototypeStates": 0,
+    "layers": 172
+  },
+  {
+    "id": "227:671",
+    "name": "Primitives/text/var",
+    "component": "PrimitivesTextVarDesign227_671",
+    "variants": 36,
+    "jsxNodes": 144,
+    "cssClasses": 71,
+    "prototypeStates": 0,
+    "layers": 144
+  },
+  {
+    "id": "227:676",
+    "name": "Chekbox/var",
+    "component": "CheckboxDesign",
+    "variants": 45,
+    "jsxNodes": 84,
+    "cssClasses": 51,
+    "prototypeStates": 24,
+    "layers": 84
+  },
+  {
+    "id": "227:701",
+    "name": "Lable/var/S/valeu",
+    "component": "LableVarSValeuDesign227_701",
+    "variants": 45,
+    "jsxNodes": 171,
+    "cssClasses": 53,
+    "prototypeStates": 0,
+    "layers": 171
+  },
+  {
+    "id": "227:708",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_708",
+    "variants": 282,
+    "jsxNodes": 1171,
+    "cssClasses": 728,
+    "prototypeStates": 10,
+    "layers": 1171
+  },
+  {
+    "id": "227:718",
+    "name": "Button/var",
+    "component": "ButtonDesign",
+    "variants": 344,
+    "jsxNodes": 1806,
+    "cssClasses": 428,
+    "prototypeStates": 50,
+    "layers": 1806
+  },
+  {
+    "id": "227:884",
+    "name": "Tab/var",
+    "component": "TabDesign",
+    "variants": 27,
+    "jsxNodes": 180,
+    "cssClasses": 66,
+    "prototypeStates": 6,
+    "layers": 180
+  },
+  {
+    "id": "227:910",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_910",
+    "variants": 419,
+    "jsxNodes": 1695,
+    "cssClasses": 1057,
+    "prototypeStates": 10,
+    "layers": 1695
+  },
+  {
+    "id": "227:923",
+    "name": "Tab/var",
+    "component": "TabVarDesign227_923",
+    "variants": 13,
+    "jsxNodes": 52,
+    "cssClasses": 27,
+    "prototypeStates": 3,
+    "layers": 52
+  },
+  {
+    "id": "227:929",
+    "name": "Slot priority/var",
+    "component": "SlotPriorityVarDesign227_929",
+    "variants": 104,
+    "jsxNodes": 304,
+    "cssClasses": 79,
+    "prototypeStates": 0,
+    "layers": 304
+  },
+  {
+    "id": "227:936",
+    "name": "Slot base/var",
+    "component": "SlotBaseVarDesign227_936",
+    "variants": 88,
+    "jsxNodes": 406,
+    "cssClasses": 139,
+    "prototypeStates": 0,
+    "layers": 406
+  },
+  {
+    "id": "227:950",
+    "name": "Select data/var",
+    "component": "DateSelectDesign",
+    "variants": 296,
+    "jsxNodes": 5691,
+    "cssClasses": 161,
+    "prototypeStates": 0,
+    "layers": 5691
+  },
+  {
+    "id": "227:1074",
+    "name": "Text Area/chat/var",
+    "component": "ChatInputDesign",
+    "variants": 36,
+    "jsxNodes": 1356,
+    "cssClasses": 130,
+    "prototypeStates": 0,
+    "layers": 1356
+  },
+  {
+    "id": "227:1109",
+    "name": "Avatar/var",
+    "component": "AvatarDesign",
+    "variants": 4,
+    "jsxNodes": 35,
+    "cssClasses": 18,
+    "prototypeStates": 0,
+    "layers": 35
+  },
+  {
+    "id": "227:1125",
+    "name": "mess/var",
+    "component": "MessageDesign",
+    "variants": 37,
+    "jsxNodes": 679,
+    "cssClasses": 198,
+    "prototypeStates": 0,
+    "layers": 679
+  },
+  {
+    "id": "227:1176",
+    "name": "Scroll",
+    "component": "ScrollDesign227_1176",
+    "variants": 2,
+    "jsxNodes": 4,
+    "cssClasses": 3,
+    "prototypeStates": 0,
+    "layers": 4
+  },
+  {
+    "id": "227:1181",
+    "name": "Chips/var",
+    "component": "ChipDesign",
+    "variants": 10,
+    "jsxNodes": 26,
+    "cssClasses": 18,
+    "prototypeStates": 10,
+    "layers": 26
+  },
+  {
+    "id": "227:1194",
+    "name": "pin/var",
+    "component": "MapPinDesign",
+    "variants": 84,
+    "jsxNodes": 369,
+    "cssClasses": 110,
+    "prototypeStates": 37,
+    "layers": 369
+  },
+  {
+    "id": "227:1279",
+    "name": "Breadcrumb/var",
+    "component": "BreadcrumbDesign",
+    "variants": 4,
+    "jsxNodes": 7,
+    "cssClasses": 5,
+    "prototypeStates": 1,
+    "layers": 7
+  },
+  {
+    "id": "227:1287",
+    "name": "tooltip/var",
+    "component": "TooltipDesign",
+    "variants": 4,
+    "jsxNodes": 12,
+    "cssClasses": 12,
+    "prototypeStates": 0,
+    "layers": 12
+  },
+  {
+    "id": "227:1302",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_1302",
+    "variants": 413,
+    "jsxNodes": 1653,
+    "cssClasses": 1030,
+    "prototypeStates": 10,
+    "layers": 1653
+  },
+  {
+    "id": "227:1316",
+    "name": "Primitives/text/var",
+    "component": "PrimitivesTextVarDesign227_1316",
+    "variants": 12,
+    "jsxNodes": 36,
+    "cssClasses": 36,
+    "prototypeStates": 0,
+    "layers": 36
+  },
+  {
+    "id": "227:1326",
+    "name": "droplist/var",
+    "component": "DropdownItemDesign",
+    "variants": 136,
+    "jsxNodes": 747,
+    "cssClasses": 218,
+    "prototypeStates": 46,
+    "layers": 747
+  },
+  {
+    "id": "227:1358",
+    "name": "radio/var",
+    "component": "RadioDesign",
+    "variants": 30,
+    "jsxNodes": 60,
+    "cssClasses": 32,
+    "prototypeStates": 30,
+    "layers": 60
+  },
+  {
+    "id": "227:1367",
+    "name": "Text Area/comm/var",
+    "component": "TextAreaDesign",
+    "variants": 54,
+    "jsxNodes": 408,
+    "cssClasses": 153,
+    "prototypeStates": 0,
+    "layers": 408
+  },
+  {
+    "id": "227:1436",
+    "name": "Logo/var",
+    "component": "LogoDesign",
+    "variants": 127,
+    "jsxNodes": 1689,
+    "cssClasses": 1475,
+    "prototypeStates": 0,
+    "layers": 1689
+  },
+  {
+    "id": "227:1470",
+    "name": "Alert_box",
+    "component": "AlertDesign",
+    "variants": 18,
+    "jsxNodes": 126,
+    "cssClasses": 45,
+    "prototypeStates": 0,
+    "layers": 126
+  },
+  {
+    "id": "227:1516",
+    "name": "Lable/var/L/valeu",
+    "component": "LableVarLValeuDesign227_1516",
+    "variants": 46,
+    "jsxNodes": 172,
+    "cssClasses": 45,
+    "prototypeStates": 0,
+    "layers": 172
+  },
+  {
+    "id": "227:1533",
+    "name": "Data picker_data/var",
+    "component": "DataPickerDataVarDesign227_1533",
+    "variants": 22,
+    "jsxNodes": 66,
+    "cssClasses": 30,
+    "prototypeStates": 10,
+    "layers": 66
+  },
+  {
+    "id": "227:1553",
+    "name": "Slot headline_v0.2 /var",
+    "component": "SlotHeadlineV02VarDesign227_1553",
+    "variants": 36,
+    "jsxNodes": 141,
+    "cssClasses": 48,
+    "prototypeStates": 0,
+    "layers": 141
+  },
+  {
+    "id": "227:1576",
+    "name": "Scale/S/var",
+    "component": "ScaleDesign",
+    "variants": 12,
+    "jsxNodes": 49,
+    "cssClasses": 21,
+    "prototypeStates": 0,
+    "layers": 49
+  },
+  {
+    "id": "227:1618",
+    "name": "Slot priority_v0.2/var",
+    "component": "SlotPriorityV02VarDesign227_1618",
+    "variants": 12,
+    "jsxNodes": 24,
+    "cssClasses": 14,
+    "prototypeStates": 0,
+    "layers": 24
+  },
+  {
+    "id": "227:1631",
+    "name": "Slot base_v0.2/var",
+    "component": "SlotBaseV02VarDesign227_1631",
+    "variants": 20,
+    "jsxNodes": 40,
+    "cssClasses": 18,
+    "prototypeStates": 0,
+    "layers": 40
+  },
+  {
+    "id": "227:1683",
+    "name": "icon/set/filled",
+    "component": "IconSetFilledDesign227_1683",
+    "variants": 21,
+    "jsxNodes": 73,
+    "cssClasses": 52,
+    "prototypeStates": 0,
+    "layers": 73
+  },
+  {
+    "id": "227:1706",
+    "name": "Spinner/var",
+    "component": "SpinnerDesign",
+    "variants": 32,
+    "jsxNodes": 96,
+    "cssClasses": 12,
+    "prototypeStates": 0,
+    "layers": 96
+  },
+  {
+    "id": "227:1734",
+    "name": "Select time/var",
+    "component": "TimeSelectDesign",
+    "variants": 18,
+    "jsxNodes": 216,
+    "cssClasses": 26,
+    "prototypeStates": 0,
+    "layers": 216
+  },
+  {
+    "id": "227:1755",
+    "name": "Switch/var",
+    "component": "SwitchDesign",
+    "variants": 8,
+    "jsxNodes": 31,
+    "cssClasses": 14,
+    "prototypeStates": 4,
+    "layers": 31
+  },
+  {
+    "id": "227:1764",
+    "name": "Tab",
+    "component": "TabDesign227_1764",
+    "variants": 15,
+    "jsxNodes": 57,
+    "cssClasses": 27,
+    "prototypeStates": 6,
+    "layers": 57
+  },
+  {
+    "id": "227:1798",
+    "name": "Menu item/var ",
+    "component": "MenuItemVarDesign227_1798",
+    "variants": 16,
+    "jsxNodes": 112,
+    "cssClasses": 28,
+    "prototypeStates": 12,
+    "layers": 112
+  },
+  {
+    "id": "227:1812",
+    "name": "Select/var",
+    "component": "SelectDesign",
+    "variants": 564,
+    "jsxNodes": 7261,
+    "cssClasses": 214,
+    "prototypeStates": 34,
+    "layers": 7261
+  },
+  {
+    "id": "227:1829",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_1829",
+    "variants": 416,
+    "jsxNodes": 1671,
+    "cssClasses": 1039,
+    "prototypeStates": 10,
+    "layers": 1671
+  },
+  {
+    "id": "227:1837",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_1837",
+    "variants": 196,
+    "jsxNodes": 881,
+    "cssClasses": 552,
+    "prototypeStates": 10,
+    "layers": 881
+  },
+  {
+    "id": "227:1903",
+    "name": "Agent",
+    "component": "AgentDesign227_1903",
+    "variants": 13,
+    "jsxNodes": 131,
+    "cssClasses": 66,
+    "prototypeStates": 7,
+    "layers": 131
+  },
+  {
+    "id": "227:1924",
+    "name": "user message",
+    "component": "UserMessageDesign227_1924",
+    "variants": 2,
+    "jsxNodes": 26,
+    "cssClasses": 14,
+    "prototypeStates": 0,
+    "layers": 26
+  },
+  {
+    "id": "227:1947",
+    "name": "attached file/var",
+    "component": "AttachedFileVarDesign227_1947",
+    "variants": 3,
+    "jsxNodes": 39,
+    "cssClasses": 25,
+    "prototypeStates": 0,
+    "layers": 39
+  },
+  {
+    "id": "227:1956",
+    "name": "Slot headline/var",
+    "component": "SlotHeadlineVarDesign227_1956",
+    "variants": 12,
+    "jsxNodes": 52,
+    "cssClasses": 30,
+    "prototypeStates": 0,
+    "layers": 52
+  },
+  {
+    "id": "227:1959",
+    "name": "Select/var",
+    "component": "SelectVarDesign227_1959",
+    "variants": 560,
+    "jsxNodes": 7342,
+    "cssClasses": 214,
+    "prototypeStates": 0,
+    "layers": 7342
+  },
+  {
+    "id": "227:1965",
+    "name": "Lable/var/S/valeu",
+    "component": "LableVarSValeuDesign227_1965",
+    "variants": 45,
+    "jsxNodes": 171,
+    "cssClasses": 53,
+    "prototypeStates": 0,
+    "layers": 171
+  },
+  {
+    "id": "227:1969",
+    "name": "Slider/var",
+    "component": "SliderDesign",
+    "variants": 3,
+    "jsxNodes": 78,
+    "cssClasses": 21,
+    "prototypeStates": 0,
+    "layers": 78
+  },
+  {
+    "id": "227:1974",
+    "name": "Select/var",
+    "component": "SelectVarDesign227_1974",
+    "variants": 564,
+    "jsxNodes": 7261,
+    "cssClasses": 214,
+    "prototypeStates": 34,
+    "layers": 7261
+  },
+  {
+    "id": "227:1999",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_1999",
+    "variants": 431,
+    "jsxNodes": 1731,
+    "cssClasses": 1078,
+    "prototypeStates": 10,
+    "layers": 1731
+  },
+  {
+    "id": "227:2022",
+    "name": "icon/control/24/var",
+    "component": "IconControl24VarDesign227_2022",
+    "variants": 2,
+    "jsxNodes": 6,
+    "cssClasses": 4,
+    "prototypeStates": 1,
+    "layers": 6
+  },
+  {
+    "id": "227:2032",
+    "name": "Logo/var/mono/noname",
+    "component": "MonoLogoDesign",
+    "variants": 3,
+    "jsxNodes": 18,
+    "cssClasses": 8,
+    "prototypeStates": 0,
+    "layers": 18
+  },
+  {
+    "id": "227:2066",
+    "name": "icon/indicator/16/var",
+    "component": "IconIndicator16VarDesign227_2066",
+    "variants": 8,
+    "jsxNodes": 29,
+    "cssClasses": 17,
+    "prototypeStates": 1,
+    "layers": 29
+  },
+  {
+    "id": "0:2",
+    "name": "Internal Only Canvas",
+    "component": "InternalOnlyCanvasDesign0_2",
+    "variants": 25,
+    "jsxNodes": 210,
+    "cssClasses": 170,
+    "prototypeStates": 0,
+    "layers": 210
+  },
+  {
+    "id": "227:2108",
+    "name": "test test",
+    "component": "TestTestDesign227_2108",
+    "variants": 2,
+    "jsxNodes": 124,
+    "cssClasses": 53,
+    "prototypeStates": 2,
+    "layers": 124
+  },
+  {
+    "id": "227:2141",
+    "name": "Chips/xs/var",
+    "component": "ChipsXsVarDesign227_2141",
+    "variants": 4,
+    "jsxNodes": 12,
+    "cssClasses": 7,
+    "prototypeStates": 4,
+    "layers": 12
+  },
+  {
+    "id": "227:2192",
+    "name": "Icon/control/16/var",
+    "component": "IconControl16VarDesign227_2192",
+    "variants": 36,
+    "jsxNodes": 139,
+    "cssClasses": 50,
+    "prototypeStates": 6,
+    "layers": 139
+  },
+  {
+    "id": "227:2333",
+    "name": "AI Agent",
+    "component": "AgentDesign",
+    "variants": 9,
+    "jsxNodes": 92,
+    "cssClasses": 37,
+    "prototypeStates": 4,
+    "layers": 92
+  },
+  {
+    "id": "227:2490",
+    "name": "icon_button_cast",
+    "component": "IconButtonCastDesign227_2490",
+    "variants": 5,
+    "jsxNodes": 13,
+    "cssClasses": 7,
+    "prototypeStates": 3,
+    "layers": 13
+  },
+  {
+    "id": "227:2590",
+    "name": "icon/set/base",
+    "component": "IconSetBaseDesign227_2590",
+    "variants": 282,
+    "jsxNodes": 1171,
+    "cssClasses": 728,
+    "prototypeStates": 10,
+    "layers": 1171
+  },
+  {
+    "id": "227:3796",
+    "name": "Primitives/text/var",
+    "component": "PrimitivesTextVarDesign227_3796",
+    "variants": 36,
+    "jsxNodes": 144,
+    "cssClasses": 71,
+    "prototypeStates": 0,
+    "layers": 144
+  },
+  {
+    "id": "227:3990",
+    "name": "Icon/control/16/var",
+    "component": "IconControl16VarDesign227_3990",
+    "variants": 36,
+    "jsxNodes": 139,
+    "cssClasses": 49,
+    "prototypeStates": 6,
+    "layers": 139
+  },
+  {
+    "id": "227:4136",
+    "name": "Card object_cast/var",
+    "component": "CardObjectCastVarDesign227_4136",
+    "variants": 7,
+    "jsxNodes": 97,
+    "cssClasses": 32,
+    "prototypeStates": 2,
+    "layers": 97
+  },
+  {
+    "id": "227:4242",
+    "name": "Button/var",
+    "component": "ButtonVarDesign227_4242",
+    "variants": 336,
+    "jsxNodes": 1854,
+    "cssClasses": 455,
+    "prototypeStates": 0,
+    "layers": 1854
+  },
+  {
+    "id": "227:5718",
+    "name": "Interface essential/Chat-1",
+    "component": "InterfaceEssentialChat1Design227_5718",
+    "variants": 2,
+    "jsxNodes": 4,
+    "cssClasses": 3,
+    "prototypeStates": 0,
+    "layers": 4
+  },
+  {
+    "id": "227:66157",
+    "name": "Card object_ecs/var",
+    "component": "CardObjectEcsVarDesign227_66157",
+    "variants": 6,
+    "jsxNodes": 146,
+    "cssClasses": 65,
+    "prototypeStates": 2,
+    "layers": 146
+  },
+  {
+    "id": "227:67632",
+    "name": "Hover test",
+    "component": "HoverTestDesign227_67632",
+    "variants": 2,
+    "jsxNodes": 4,
+    "cssClasses": 3,
+    "prototypeStates": 1,
+    "layers": 4
+  },
+  {
+    "id": "227:70527",
+    "name": "Headline",
+    "component": "HeadlineDesign227_70527",
+    "variants": 1,
+    "jsxNodes": 2,
+    "cssClasses": 2,
+    "prototypeStates": 0,
+    "layers": 2
+  },
+  {
+    "id": "227:70144",
+    "name": "Section 13",
+    "component": "Section13Design227_70144",
+    "variants": 2,
+    "jsxNodes": 4,
+    "cssClasses": 3,
+    "prototypeStates": 0,
+    "layers": 4
+  },
+  {
+    "id": "227:70592",
+    "name": "Card_segment_copy/var",
+    "component": "CardSegmentCopyVarDesign227_70592",
+    "variants": 13,
+    "jsxNodes": 509,
+    "cssClasses": 105,
+    "prototypeStates": 5,
+    "layers": 509
+  },
+  {
+    "id": "227:70775",
+    "name": "Card object_ecs 2/var",
+    "component": "ObjectCardDesign",
+    "variants": 19,
+    "jsxNodes": 682,
+    "cssClasses": 138,
+    "prototypeStates": 10,
+    "layers": 682
+  },
+  {
+    "id": "227:71198",
+    "name": "Card_segment/var",
+    "component": "SegmentCardDesign",
+    "variants": 31,
+    "jsxNodes": 1114,
+    "cssClasses": 138,
+    "prototypeStates": 20,
+    "layers": 1114
+  },
+  {
+    "id": "227:71659",
+    "name": "info block/an",
+    "component": "InfoBlockAnDesign227_71659",
+    "variants": 2,
+    "jsxNodes": 63,
+    "cssClasses": 41,
+    "prototypeStates": 1,
+    "layers": 63
+  },
+  {
+    "id": "227:71730",
+    "name": "widget_state",
+    "component": "WidgetStateDesign227_71730",
+    "variants": 3,
+    "jsxNodes": 15,
+    "cssClasses": 12,
+    "prototypeStates": 0,
+    "layers": 15
+  },
+  {
+    "id": "227:71742",
+    "name": "Card access_ecs/var",
+    "component": "AccessCardDesign",
+    "variants": 4,
+    "jsxNodes": 164,
+    "cssClasses": 77,
+    "prototypeStates": 2,
+    "layers": 164
+  },
+  {
+    "id": "227:71863",
+    "name": "setting_box/var",
+    "component": "SettingsBoxDesign",
+    "variants": 4,
+    "jsxNodes": 178,
+    "cssClasses": 71,
+    "prototypeStates": 0,
+    "layers": 178
+  },
+  {
+    "id": "227:71935",
+    "name": "list_cast/layer/var",
+    "component": "LayerRowDesign",
+    "variants": 20,
+    "jsxNodes": 193,
+    "cssClasses": 77,
+    "prototypeStates": 7,
+    "layers": 193
+  },
+  {
+    "id": "228:51707",
+    "name": "loading/var",
+    "component": "LoadingVarDesign228_51707",
+    "variants": 8,
+    "jsxNodes": 56,
+    "cssClasses": 28,
+    "prototypeStates": 0,
+    "layers": 56
+  },
+  {
+    "id": "230:54716",
+    "name": "Lable/var/L/valeu",
+    "component": "LableVarLValeuDesign230_54716",
+    "variants": 45,
+    "jsxNodes": 162,
+    "cssClasses": 42,
+    "prototypeStates": 0,
+    "layers": 162
+  },
+  {
+    "id": "231:51942",
+    "name": "loading/var",
+    "component": "LoadingVarDesign231_51942",
+    "variants": 8,
+    "jsxNodes": 56,
+    "cssClasses": 28,
+    "prototypeStates": 0,
+    "layers": 56
+  },
+  {
+    "id": "231:52336",
+    "name": "Lable/var/S/valeu",
+    "component": "LableVarSValeuDesign231_52336",
+    "variants": 46,
+    "jsxNodes": 172,
+    "cssClasses": 54,
+    "prototypeStates": 0,
+    "layers": 172
+  },
+  {
+    "id": "231:52482",
+    "name": "Lable/var/L/valeu",
+    "component": "LableVarLValeuDesign231_52482",
+    "variants": 46,
+    "jsxNodes": 172,
+    "cssClasses": 45,
+    "prototypeStates": 0,
+    "layers": 172
+  },
+  {
+    "id": "232:50348",
+    "name": "Lable/var/S/valeu",
+    "component": "LableVarSValeuDesign232_50348",
+    "variants": 46,
+    "jsxNodes": 172,
+    "cssClasses": 54,
+    "prototypeStates": 0,
+    "layers": 172
+  },
+  {
+    "id": "232:50494",
+    "name": "Lable/var/L/valeu",
+    "component": "LableVarLValeuDesign232_50494",
+    "variants": 46,
+    "jsxNodes": 172,
+    "cssClasses": 45,
+    "prototypeStates": 0,
+    "layers": 172
+  },
+  {
+    "id": "232:56553",
+    "name": "Select data/var",
+    "component": "SelectDataVarDesign232_56553",
+    "variants": 296,
+    "jsxNodes": 5692,
+    "cssClasses": 152,
+    "prototypeStates": 0,
+    "layers": 5692
+  },
+  {
+    "id": "232:60855",
+    "name": "Chekbox/var",
+    "component": "ChekboxVarDesign232_60855",
+    "variants": 6,
+    "jsxNodes": 10,
+    "cssClasses": 8,
+    "prototypeStates": 0,
+    "layers": 10
+  },
+  {
+    "id": "232:60870",
+    "name": "icon/set/filled",
+    "component": "IconSetFilledDesign232_60870",
+    "variants": 18,
+    "jsxNodes": 67,
+    "cssClasses": 47,
+    "prototypeStates": 0,
+    "layers": 67
+  },
+  {
+    "id": "237:50371",
+    "name": "icon/var/table",
+    "component": "IconVarTableDesign237_50371",
+    "variants": 6,
+    "jsxNodes": 24,
+    "cssClasses": 10,
+    "prototypeStates": 0,
+    "layers": 24
+  }
+]

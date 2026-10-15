@@ -1,0 +1,7 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { SlotPriorityVarDesign227_929, variants } from '../../src/figma/SlotPriorityVarDesign227_929';
+const meta={title:"Из макета/Slot priority/var · 227:929",component:SlotPriorityVarDesign227_929,tags:["autodocs"],args:{variant:"227:930",interactive:true},argTypes:{variant:{control:{type:"select",labels:Object.fromEntries(variants.map(v=>[v.id,v.name]))},options:variants.map(v=>v.id)},variantProps:{control:"object"},text:{control:"object"},interactive:{control:"boolean"}},parameters:{docs:{description:{component:"Прямой перенос TSX + CSS Modules из Slot priority/var. 104 вариантов. Заменяйте текст через text по имени слоя или ключу из layers.json. Геометрия сохранена из Figma. interactive воспроизводит только заданные переходы прототипа; бизнес-логику задаёт приложение."}}}} satisfies Meta<typeof SlotPriorityVarDesign227_929>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+const stateSamples=[{"id":"227:930","label":"closed"},{"id":"231:52192","label":"last"},{"id":"231:52264","label":"last for list"},{"id":"231:52120","label":"opened"}] as const;
+export const States:Story={render:args=><div style={{display:"flex",flexWrap:"wrap",gap:24,alignItems:"flex-start"}}>{stateSamples.map(item=><div key={item.id}><p style={{fontSize:12,color:"#8f8b9a"}}>{item.label}</p><SlotPriorityVarDesign227_929 {...args} variant={item.id} variantProps={undefined} interactive={false}/></div>)}</div>};

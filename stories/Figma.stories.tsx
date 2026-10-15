@@ -1,0 +1,10 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { FigmaReference } from './FigmaReference';
+const meta={ title:'Архив/Справочник геометрии',component:FigmaReference,parameters:{layout:'padded'},args:{initialFamily:'227:718'} } satisfies Meta<typeof FigmaReference>;
+export default meta;
+type Story=StoryObj<typeof meta>;
+export const Buttons:Story={name:'Кнопки — все варианты'};
+export const Selects:Story={name:'Поля выбора',args:{initialFamily:'227:1812'}};
+export const ObjectCards:Story={name:'Карточки объектов',args:{initialFamily:'227:70775'}};
+export const SegmentCards:Story={name:'Карточки сегментов',args:{initialFamily:'227:71198'}};
+export const Icons:Story={name:'Иконки',args:{initialFamily:'227:175'}};

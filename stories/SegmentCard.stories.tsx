@@ -1,0 +1,14 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { fn } from 'storybook/test';
+import { SegmentCard, Button, LayerRow } from '../src';
+const meta={title:'ЕЦС/SegmentCard',component:SegmentCard,tags:['autodocs'],args:{title:'Розничный сегмент',view:'segment',state:'editor',rows:[{label:'Площадь',value:'320 м²'},{label:'Рабочие места',value:'24'},{label:'Формат',value:'Полный'}],onEdit:fn()}} satisfies Meta<typeof SegmentCard>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+export const Changed:Story={args:{state:'changed',rows:[{label:'Площадь',value:'320 м²',previousValue:'280 м²'}]}};
+export const Viewing:Story={args:{state:'viewing'}};
+export const Different:Story={args:{state:'different'}};
+export const Alert:Story={args:{state:'alert'}};
+export const General:Story={args:{view:'general'}};
+export const Deviation:Story={args:{view:'deviation'}};
+export const Additional:Story={args:{view:'additional',collapsible:true}};
+export const Skeleton:Story={args:{loading:true}};

@@ -1,0 +1,433 @@
+{
+  "name": "@ecs/design-system",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "React + TypeScript + CSS Modules design system extracted from \u0435\u0446\u0441.fig",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/ecs-design-system.js"
+    },
+    "./styles.css": "./dist/ecs-design-system.css",
+    "./figma": {
+      "types": "./dist/figma/index.d.ts",
+      "import": "./dist/figma/index.js"
+    },
+    "./figma/styles.css": "./dist/figma/ecs-figma.css",
+    "./figma/TextDesign227_2": {
+      "types": "./dist/figma/TextDesign227_2/index.d.ts",
+      "import": "./dist/figma/TextDesign227_2/TextDesign227_2.js"
+    },
+    "./figma/SelectVarDesign227_5": {
+      "types": "./dist/figma/SelectVarDesign227_5/index.d.ts",
+      "import": "./dist/figma/SelectVarDesign227_5/SelectVarDesign227_5.js"
+    },
+    "./figma/IconSetBaseDesign227_175": {
+      "types": "./dist/figma/IconSetBaseDesign227_175/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_175/IconSetBaseDesign227_175.js"
+    },
+    "./figma/PrimitivesTextVarDesign227_584": {
+      "types": "./dist/figma/PrimitivesTextVarDesign227_584/index.d.ts",
+      "import": "./dist/figma/PrimitivesTextVarDesign227_584/PrimitivesTextVarDesign227_584.js"
+    },
+    "./figma/LableVarSValeuDesign227_648": {
+      "types": "./dist/figma/LableVarSValeuDesign227_648/index.d.ts",
+      "import": "./dist/figma/LableVarSValeuDesign227_648/LableVarSValeuDesign227_648.js"
+    },
+    "./figma/PrimitivesTextVarDesign227_671": {
+      "types": "./dist/figma/PrimitivesTextVarDesign227_671/index.d.ts",
+      "import": "./dist/figma/PrimitivesTextVarDesign227_671/PrimitivesTextVarDesign227_671.js"
+    },
+    "./figma/CheckboxDesign": {
+      "types": "./dist/figma/CheckboxDesign/index.d.ts",
+      "import": "./dist/figma/CheckboxDesign/CheckboxDesign.js"
+    },
+    "./figma/LableVarSValeuDesign227_701": {
+      "types": "./dist/figma/LableVarSValeuDesign227_701/index.d.ts",
+      "import": "./dist/figma/LableVarSValeuDesign227_701/LableVarSValeuDesign227_701.js"
+    },
+    "./figma/IconSetBaseDesign227_708": {
+      "types": "./dist/figma/IconSetBaseDesign227_708/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_708/IconSetBaseDesign227_708.js"
+    },
+    "./figma/ButtonDesign": {
+      "types": "./dist/figma/ButtonDesign/index.d.ts",
+      "import": "./dist/figma/ButtonDesign/ButtonDesign.js"
+    },
+    "./figma/TabDesign": {
+      "types": "./dist/figma/TabDesign/index.d.ts",
+      "import": "./dist/figma/TabDesign/TabDesign.js"
+    },
+    "./figma/IconSetBaseDesign227_910": {
+      "types": "./dist/figma/IconSetBaseDesign227_910/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_910/IconSetBaseDesign227_910.js"
+    },
+    "./figma/TabVarDesign227_923": {
+      "types": "./dist/figma/TabVarDesign227_923/index.d.ts",
+      "import": "./dist/figma/TabVarDesign227_923/TabVarDesign227_923.js"
+    },
+    "./figma/SlotPriorityVarDesign227_929": {
+      "types": "./dist/figma/SlotPriorityVarDesign227_929/index.d.ts",
+      "import": "./dist/figma/SlotPriorityVarDesign227_929/SlotPriorityVarDesign227_929.js"
+    },
+    "./figma/SlotBaseVarDesign227_936": {
+      "types": "./dist/figma/SlotBaseVarDesign227_936/index.d.ts",
+      "import": "./dist/figma/SlotBaseVarDesign227_936/SlotBaseVarDesign227_936.js"
+    },
+    "./figma/DateSelectDesign": {
+      "types": "./dist/figma/DateSelectDesign/index.d.ts",
+      "import": "./dist/figma/DateSelectDesign/DateSelectDesign.js"
+    },
+    "./figma/ChatInputDesign": {
+      "types": "./dist/figma/ChatInputDesign/index.d.ts",
+      "import": "./dist/figma/ChatInputDesign/ChatInputDesign.js"
+    },
+    "./figma/AvatarDesign": {
+      "types": "./dist/figma/AvatarDesign/index.d.ts",
+      "import": "./dist/figma/AvatarDesign/AvatarDesign.js"
+    },
+    "./figma/MessageDesign": {
+      "types": "./dist/figma/MessageDesign/index.d.ts",
+      "import": "./dist/figma/MessageDesign/MessageDesign.js"
+    },
+    "./figma/ScrollDesign227_1176": {
+      "types": "./dist/figma/ScrollDesign227_1176/index.d.ts",
+      "import": "./dist/figma/ScrollDesign227_1176/ScrollDesign227_1176.js"
+    },
+    "./figma/ChipDesign": {
+      "types": "./dist/figma/ChipDesign/index.d.ts",
+      "import": "./dist/figma/ChipDesign/ChipDesign.js"
+    },
+    "./figma/MapPinDesign": {
+      "types": "./dist/figma/MapPinDesign/index.d.ts",
+      "import": "./dist/figma/MapPinDesign/MapPinDesign.js"
+    },
+    "./figma/BreadcrumbDesign": {
+      "types": "./dist/figma/BreadcrumbDesign/index.d.ts",
+      "import": "./dist/figma/BreadcrumbDesign/BreadcrumbDesign.js"
+    },
+    "./figma/TooltipDesign": {
+      "types": "./dist/figma/TooltipDesign/index.d.ts",
+      "import": "./dist/figma/TooltipDesign/TooltipDesign.js"
+    },
+    "./figma/IconSetBaseDesign227_1302": {
+      "types": "./dist/figma/IconSetBaseDesign227_1302/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_1302/IconSetBaseDesign227_1302.js"
+    },
+    "./figma/PrimitivesTextVarDesign227_1316": {
+      "types": "./dist/figma/PrimitivesTextVarDesign227_1316/index.d.ts",
+      "import": "./dist/figma/PrimitivesTextVarDesign227_1316/PrimitivesTextVarDesign227_1316.js"
+    },
+    "./figma/DropdownItemDesign": {
+      "types": "./dist/figma/DropdownItemDesign/index.d.ts",
+      "import": "./dist/figma/DropdownItemDesign/DropdownItemDesign.js"
+    },
+    "./figma/RadioDesign": {
+      "types": "./dist/figma/RadioDesign/index.d.ts",
+      "import": "./dist/figma/RadioDesign/RadioDesign.js"
+    },
+    "./figma/TextAreaDesign": {
+      "types": "./dist/figma/TextAreaDesign/index.d.ts",
+      "import": "./dist/figma/TextAreaDesign/TextAreaDesign.js"
+    },
+    "./figma/LogoDesign": {
+      "types": "./dist/figma/LogoDesign/index.d.ts",
+      "import": "./dist/figma/LogoDesign/LogoDesign.js"
+    },
+    "./figma/AlertDesign": {
+      "types": "./dist/figma/AlertDesign/index.d.ts",
+      "import": "./dist/figma/AlertDesign/AlertDesign.js"
+    },
+    "./figma/LableVarLValeuDesign227_1516": {
+      "types": "./dist/figma/LableVarLValeuDesign227_1516/index.d.ts",
+      "import": "./dist/figma/LableVarLValeuDesign227_1516/LableVarLValeuDesign227_1516.js"
+    },
+    "./figma/DataPickerDataVarDesign227_1533": {
+      "types": "./dist/figma/DataPickerDataVarDesign227_1533/index.d.ts",
+      "import": "./dist/figma/DataPickerDataVarDesign227_1533/DataPickerDataVarDesign227_1533.js"
+    },
+    "./figma/SlotHeadlineV02VarDesign227_1553": {
+      "types": "./dist/figma/SlotHeadlineV02VarDesign227_1553/index.d.ts",
+      "import": "./dist/figma/SlotHeadlineV02VarDesign227_1553/SlotHeadlineV02VarDesign227_1553.js"
+    },
+    "./figma/ScaleDesign": {
+      "types": "./dist/figma/ScaleDesign/index.d.ts",
+      "import": "./dist/figma/ScaleDesign/ScaleDesign.js"
+    },
+    "./figma/SlotPriorityV02VarDesign227_1618": {
+      "types": "./dist/figma/SlotPriorityV02VarDesign227_1618/index.d.ts",
+      "import": "./dist/figma/SlotPriorityV02VarDesign227_1618/SlotPriorityV02VarDesign227_1618.js"
+    },
+    "./figma/SlotBaseV02VarDesign227_1631": {
+      "types": "./dist/figma/SlotBaseV02VarDesign227_1631/index.d.ts",
+      "import": "./dist/figma/SlotBaseV02VarDesign227_1631/SlotBaseV02VarDesign227_1631.js"
+    },
+    "./figma/IconSetFilledDesign227_1683": {
+      "types": "./dist/figma/IconSetFilledDesign227_1683/index.d.ts",
+      "import": "./dist/figma/IconSetFilledDesign227_1683/IconSetFilledDesign227_1683.js"
+    },
+    "./figma/SpinnerDesign": {
+      "types": "./dist/figma/SpinnerDesign/index.d.ts",
+      "import": "./dist/figma/SpinnerDesign/SpinnerDesign.js"
+    },
+    "./figma/TimeSelectDesign": {
+      "types": "./dist/figma/TimeSelectDesign/index.d.ts",
+      "import": "./dist/figma/TimeSelectDesign/TimeSelectDesign.js"
+    },
+    "./figma/SwitchDesign": {
+      "types": "./dist/figma/SwitchDesign/index.d.ts",
+      "import": "./dist/figma/SwitchDesign/SwitchDesign.js"
+    },
+    "./figma/TabDesign227_1764": {
+      "types": "./dist/figma/TabDesign227_1764/index.d.ts",
+      "import": "./dist/figma/TabDesign227_1764/TabDesign227_1764.js"
+    },
+    "./figma/MenuItemVarDesign227_1798": {
+      "types": "./dist/figma/MenuItemVarDesign227_1798/index.d.ts",
+      "import": "./dist/figma/MenuItemVarDesign227_1798/MenuItemVarDesign227_1798.js"
+    },
+    "./figma/SelectDesign": {
+      "types": "./dist/figma/SelectDesign/index.d.ts",
+      "import": "./dist/figma/SelectDesign/SelectDesign.js"
+    },
+    "./figma/IconSetBaseDesign227_1829": {
+      "types": "./dist/figma/IconSetBaseDesign227_1829/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_1829/IconSetBaseDesign227_1829.js"
+    },
+    "./figma/IconSetBaseDesign227_1837": {
+      "types": "./dist/figma/IconSetBaseDesign227_1837/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_1837/IconSetBaseDesign227_1837.js"
+    },
+    "./figma/AgentDesign227_1903": {
+      "types": "./dist/figma/AgentDesign227_1903/index.d.ts",
+      "import": "./dist/figma/AgentDesign227_1903/AgentDesign227_1903.js"
+    },
+    "./figma/UserMessageDesign227_1924": {
+      "types": "./dist/figma/UserMessageDesign227_1924/index.d.ts",
+      "import": "./dist/figma/UserMessageDesign227_1924/UserMessageDesign227_1924.js"
+    },
+    "./figma/AttachedFileVarDesign227_1947": {
+      "types": "./dist/figma/AttachedFileVarDesign227_1947/index.d.ts",
+      "import": "./dist/figma/AttachedFileVarDesign227_1947/AttachedFileVarDesign227_1947.js"
+    },
+    "./figma/SlotHeadlineVarDesign227_1956": {
+      "types": "./dist/figma/SlotHeadlineVarDesign227_1956/index.d.ts",
+      "import": "./dist/figma/SlotHeadlineVarDesign227_1956/SlotHeadlineVarDesign227_1956.js"
+    },
+    "./figma/SelectVarDesign227_1959": {
+      "types": "./dist/figma/SelectVarDesign227_1959/index.d.ts",
+      "import": "./dist/figma/SelectVarDesign227_1959/SelectVarDesign227_1959.js"
+    },
+    "./figma/LableVarSValeuDesign227_1965": {
+      "types": "./dist/figma/LableVarSValeuDesign227_1965/index.d.ts",
+      "import": "./dist/figma/LableVarSValeuDesign227_1965/LableVarSValeuDesign227_1965.js"
+    },
+    "./figma/SliderDesign": {
+      "types": "./dist/figma/SliderDesign/index.d.ts",
+      "import": "./dist/figma/SliderDesign/SliderDesign.js"
+    },
+    "./figma/SelectVarDesign227_1974": {
+      "types": "./dist/figma/SelectVarDesign227_1974/index.d.ts",
+      "import": "./dist/figma/SelectVarDesign227_1974/SelectVarDesign227_1974.js"
+    },
+    "./figma/IconSetBaseDesign227_1999": {
+      "types": "./dist/figma/IconSetBaseDesign227_1999/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_1999/IconSetBaseDesign227_1999.js"
+    },
+    "./figma/IconControl24VarDesign227_2022": {
+      "types": "./dist/figma/IconControl24VarDesign227_2022/index.d.ts",
+      "import": "./dist/figma/IconControl24VarDesign227_2022/IconControl24VarDesign227_2022.js"
+    },
+    "./figma/MonoLogoDesign": {
+      "types": "./dist/figma/MonoLogoDesign/index.d.ts",
+      "import": "./dist/figma/MonoLogoDesign/MonoLogoDesign.js"
+    },
+    "./figma/IconIndicator16VarDesign227_2066": {
+      "types": "./dist/figma/IconIndicator16VarDesign227_2066/index.d.ts",
+      "import": "./dist/figma/IconIndicator16VarDesign227_2066/IconIndicator16VarDesign227_2066.js"
+    },
+    "./figma/InternalOnlyCanvasDesign0_2": {
+      "types": "./dist/figma/InternalOnlyCanvasDesign0_2/index.d.ts",
+      "import": "./dist/figma/InternalOnlyCanvasDesign0_2/InternalOnlyCanvasDesign0_2.js"
+    },
+    "./figma/TestTestDesign227_2108": {
+      "types": "./dist/figma/TestTestDesign227_2108/index.d.ts",
+      "import": "./dist/figma/TestTestDesign227_2108/TestTestDesign227_2108.js"
+    },
+    "./figma/ChipsXsVarDesign227_2141": {
+      "types": "./dist/figma/ChipsXsVarDesign227_2141/index.d.ts",
+      "import": "./dist/figma/ChipsXsVarDesign227_2141/ChipsXsVarDesign227_2141.js"
+    },
+    "./figma/IconControl16VarDesign227_2192": {
+      "types": "./dist/figma/IconControl16VarDesign227_2192/index.d.ts",
+      "import": "./dist/figma/IconControl16VarDesign227_2192/IconControl16VarDesign227_2192.js"
+    },
+    "./figma/AgentDesign": {
+      "types": "./dist/figma/AgentDesign/index.d.ts",
+      "import": "./dist/figma/AgentDesign/AgentDesign.js"
+    },
+    "./figma/IconButtonCastDesign227_2490": {
+      "types": "./dist/figma/IconButtonCastDesign227_2490/index.d.ts",
+      "import": "./dist/figma/IconButtonCastDesign227_2490/IconButtonCastDesign227_2490.js"
+    },
+    "./figma/IconSetBaseDesign227_2590": {
+      "types": "./dist/figma/IconSetBaseDesign227_2590/index.d.ts",
+      "import": "./dist/figma/IconSetBaseDesign227_2590/IconSetBaseDesign227_2590.js"
+    },
+    "./figma/PrimitivesTextVarDesign227_3796": {
+      "types": "./dist/figma/PrimitivesTextVarDesign227_3796/index.d.ts",
+      "import": "./dist/figma/PrimitivesTextVarDesign227_3796/PrimitivesTextVarDesign227_3796.js"
+    },
+    "./figma/IconControl16VarDesign227_3990": {
+      "types": "./dist/figma/IconControl16VarDesign227_3990/index.d.ts",
+      "import": "./dist/figma/IconControl16VarDesign227_3990/IconControl16VarDesign227_3990.js"
+    },
+    "./figma/CardObjectCastVarDesign227_4136": {
+      "types": "./dist/figma/CardObjectCastVarDesign227_4136/index.d.ts",
+      "import": "./dist/figma/CardObjectCastVarDesign227_4136/CardObjectCastVarDesign227_4136.js"
+    },
+    "./figma/ButtonVarDesign227_4242": {
+      "types": "./dist/figma/ButtonVarDesign227_4242/index.d.ts",
+      "import": "./dist/figma/ButtonVarDesign227_4242/ButtonVarDesign227_4242.js"
+    },
+    "./figma/InterfaceEssentialChat1Design227_5718": {
+      "types": "./dist/figma/InterfaceEssentialChat1Design227_5718/index.d.ts",
+      "import": "./dist/figma/InterfaceEssentialChat1Design227_5718/InterfaceEssentialChat1Design227_5718.js"
+    },
+    "./figma/CardObjectEcsVarDesign227_66157": {
+      "types": "./dist/figma/CardObjectEcsVarDesign227_66157/index.d.ts",
+      "import": "./dist/figma/CardObjectEcsVarDesign227_66157/CardObjectEcsVarDesign227_66157.js"
+    },
+    "./figma/HoverTestDesign227_67632": {
+      "types": "./dist/figma/HoverTestDesign227_67632/index.d.ts",
+      "import": "./dist/figma/HoverTestDesign227_67632/HoverTestDesign227_67632.js"
+    },
+    "./figma/HeadlineDesign227_70527": {
+      "types": "./dist/figma/HeadlineDesign227_70527/index.d.ts",
+      "import": "./dist/figma/HeadlineDesign227_70527/HeadlineDesign227_70527.js"
+    },
+    "./figma/Section13Design227_70144": {
+      "types": "./dist/figma/Section13Design227_70144/index.d.ts",
+      "import": "./dist/figma/Section13Design227_70144/Section13Design227_70144.js"
+    },
+    "./figma/CardSegmentCopyVarDesign227_70592": {
+      "types": "./dist/figma/CardSegmentCopyVarDesign227_70592/index.d.ts",
+      "import": "./dist/figma/CardSegmentCopyVarDesign227_70592/CardSegmentCopyVarDesign227_70592.js"
+    },
+    "./figma/ObjectCardDesign": {
+      "types": "./dist/figma/ObjectCardDesign/index.d.ts",
+      "import": "./dist/figma/ObjectCardDesign/ObjectCardDesign.js"
+    },
+    "./figma/SegmentCardDesign": {
+      "types": "./dist/figma/SegmentCardDesign/index.d.ts",
+      "import": "./dist/figma/SegmentCardDesign/SegmentCardDesign.js"
+    },
+    "./figma/InfoBlockAnDesign227_71659": {
+      "types": "./dist/figma/InfoBlockAnDesign227_71659/index.d.ts",
+      "import": "./dist/figma/InfoBlockAnDesign227_71659/InfoBlockAnDesign227_71659.js"
+    },
+    "./figma/WidgetStateDesign227_71730": {
+      "types": "./dist/figma/WidgetStateDesign227_71730/index.d.ts",
+      "import": "./dist/figma/WidgetStateDesign227_71730/WidgetStateDesign227_71730.js"
+    },
+    "./figma/AccessCardDesign": {
+      "types": "./dist/figma/AccessCardDesign/index.d.ts",
+      "import": "./dist/figma/AccessCardDesign/AccessCardDesign.js"
+    },
+    "./figma/SettingsBoxDesign": {
+      "types": "./dist/figma/SettingsBoxDesign/index.d.ts",
+      "import": "./dist/figma/SettingsBoxDesign/SettingsBoxDesign.js"
+    },
+    "./figma/LayerRowDesign": {
+      "types": "./dist/figma/LayerRowDesign/index.d.ts",
+      "import": "./dist/figma/LayerRowDesign/LayerRowDesign.js"
+    },
+    "./figma/LoadingVarDesign228_51707": {
+      "types": "./dist/figma/LoadingVarDesign228_51707/index.d.ts",
+      "import": "./dist/figma/LoadingVarDesign228_51707/LoadingVarDesign228_51707.js"
+    },
+    "./figma/LableVarLValeuDesign230_54716": {
+      "types": "./dist/figma/LableVarLValeuDesign230_54716/index.d.ts",
+      "import": "./dist/figma/LableVarLValeuDesign230_54716/LableVarLValeuDesign230_54716.js"
+    },
+    "./figma/LoadingVarDesign231_51942": {
+      "types": "./dist/figma/LoadingVarDesign231_51942/index.d.ts",
+      "import": "./dist/figma/LoadingVarDesign231_51942/LoadingVarDesign231_51942.js"
+    },
+    "./figma/LableVarSValeuDesign231_52336": {
+      "types": "./dist/figma/LableVarSValeuDesign231_52336/index.d.ts",
+      "import": "./dist/figma/LableVarSValeuDesign231_52336/LableVarSValeuDesign231_52336.js"
+    },
+    "./figma/LableVarLValeuDesign231_52482": {
+      "types": "./dist/figma/LableVarLValeuDesign231_52482/index.d.ts",
+      "import": "./dist/figma/LableVarLValeuDesign231_52482/LableVarLValeuDesign231_52482.js"
+    },
+    "./figma/LableVarSValeuDesign232_50348": {
+      "types": "./dist/figma/LableVarSValeuDesign232_50348/index.d.ts",
+      "import": "./dist/figma/LableVarSValeuDesign232_50348/LableVarSValeuDesign232_50348.js"
+    },
+    "./figma/LableVarLValeuDesign232_50494": {
+      "types": "./dist/figma/LableVarLValeuDesign232_50494/index.d.ts",
+      "import": "./dist/figma/LableVarLValeuDesign232_50494/LableVarLValeuDesign232_50494.js"
+    },
+    "./figma/SelectDataVarDesign232_56553": {
+      "types": "./dist/figma/SelectDataVarDesign232_56553/index.d.ts",
+      "import": "./dist/figma/SelectDataVarDesign232_56553/SelectDataVarDesign232_56553.js"
+    },
+    "./figma/ChekboxVarDesign232_60855": {
+      "types": "./dist/figma/ChekboxVarDesign232_60855/index.d.ts",
+      "import": "./dist/figma/ChekboxVarDesign232_60855/ChekboxVarDesign232_60855.js"
+    },
+    "./figma/IconSetFilledDesign232_60870": {
+      "types": "./dist/figma/IconSetFilledDesign232_60870/index.d.ts",
+      "import": "./dist/figma/IconSetFilledDesign232_60870/IconSetFilledDesign232_60870.js"
+    },
+    "./figma/IconVarTableDesign237_50371": {
+      "types": "./dist/figma/IconVarTableDesign237_50371/index.d.ts",
+      "import": "./dist/figma/IconVarTableDesign237_50371/IconVarTableDesign237_50371.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build && tsc -p tsconfig.build.json && npm run build:figma",
+    "build:demo": "vite build --config vite.demo.config.ts",
+    "test": "vitest run",
+    "storybook": "storybook dev -p 6006 --host 127.0.0.1 --no-open",
+    "build:storybook": "storybook build",
+    "extract": "python3 scripts/extract.py",
+    "extract:tsx": "python3 scripts/extract-tsx.py",
+    "build:figma": "vite build --config vite.figma.config.ts && tsc -p tsconfig.figma.json"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@storybook/addon-a11y": "^10.6.2",
+    "@storybook/addon-docs": "^10.6.2",
+    "@storybook/react-vite": "^10.6.2",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.8",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "fzstd": "^0.1.1",
+    "jsdom": "^30.1.2",
+    "kiwi-schema": "^0.5.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "storybook": "^10.6.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.4"
+  }
+}

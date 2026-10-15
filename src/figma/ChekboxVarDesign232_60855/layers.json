@@ -1,0 +1,12 @@
+{
+  "232:60856": "Action=selected, Size=16",
+  "232:60856/232:60862": "Vector 2989",
+  "232:60857": "Action=partial, Size=16",
+  "232:60857/232:60864": "Rectangle 1",
+  "232:60858": "Action=partial, Size=12",
+  "232:60858/232:60866": "Rectangle 1",
+  "232:60859": "Action=un selected, Size=16",
+  "232:60860": "Action=selected, Size=12",
+  "232:60860/232:60868": "Vector 2989",
+  "232:60861": "Action=un selected, Size=12"
+}

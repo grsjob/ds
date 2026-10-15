@@ -1,0 +1,15 @@
+{
+  "227:2491": "State=on, Hover=off, sceleton=off",
+  "227:2491/227:2492": "icon/set/base",
+  "227:2491/227:2492/227:317": "Vector",
+  "227:2493": "State=on, Hover=off, sceleton=on",
+  "227:2494": "State=on, Hover=on, sceleton=off",
+  "227:2494/227:2495": "icon/set/base",
+  "227:2494/227:2495/227:317": "Vector",
+  "227:2496": "State=off, Hover=off, sceleton=off",
+  "227:2496/227:2497": "icon/set/base",
+  "227:2496/227:2497/227:317": "Vector",
+  "227:2498": "State=off, Hover=on, sceleton=off",
+  "227:2498/227:2499": "icon/set/base",
+  "227:2498/227:2499/227:317": "Vector"
+}

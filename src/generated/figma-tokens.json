@@ -1,0 +1,3009 @@
+[
+  {
+    "id": "219:39",
+    "name": "Components/scroll/fill",
+    "type": "FILL",
+    "color": "#888888",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:40",
+    "name": "Components/scroll/fill tema white",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:50",
+    "name": "Components/Icon/default/base 01",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:51",
+    "name": "Primitives/04",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:96",
+    "name": "Primitives/06",
+    "type": "FILL",
+    "color": "#27c10e",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1968",
+    "name": "Components/button/fill/default/secondary",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1969",
+    "name": "Components/button/stroke/secondary",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1970",
+    "name": "Components/button/icon/base for secondary",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1971",
+    "name": "Components/button/text/secondary",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1972",
+    "name": "NEW System/Component/button/base/L(16-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 16,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "219:1975",
+    "name": "NEW System/Component/button/base/XS(10-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 10,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "219:1976",
+    "name": "Components/button/stroke/disabled",
+    "type": "FILL",
+    "color": "#eeeeee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1977",
+    "name": "Components/button/icon/disabled",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1978",
+    "name": "Components/button/text/disabled",
+    "type": "FILL",
+    "color": "#d6d6d6",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1982",
+    "name": "Components/button/icon/base for primary",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:1983",
+    "name": "Components/button/fill/disabled/secondary",
+    "type": "FILL",
+    "color": "#fbfbfb",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3445",
+    "name": "Text/default/base 01",
+    "type": "FILL",
+    "color": "#282828",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3446",
+    "name": "Fill/general/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3447",
+    "name": "Stroke/default",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3448",
+    "name": "Components/Icon/disabled/base",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3449",
+    "name": "Text/default/basa 02",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3450",
+    "name": "Components/selecr/fill/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3451",
+    "name": "Components/selecr/stroke/pressed",
+    "type": "FILL",
+    "color": "#82cded",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3453",
+    "name": "NEW System/Component/Atoms/(11-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 11,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "219:3454",
+    "name": "Components/Icon/default/base 03",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3455",
+    "name": "Components/Icon/spinner/loading (darck)",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3457",
+    "name": "Components/Icon/default/positive",
+    "type": "FILL",
+    "color": "#27c10e",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "219:3458",
+    "name": "Indicator/01",
+    "type": "FILL",
+    "color": "#1fbd06",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "224:427",
+    "name": "Text/placeholder/for white fill",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2017",
+    "name": "Fill/general/primary",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2018",
+    "name": "General/01",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2019",
+    "name": "General/03",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2020",
+    "name": "Icon/02",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2021",
+    "name": "General/04",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2029",
+    "name": "Components/Icon/default/accent",
+    "type": "FILL",
+    "color": "#00bbff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2030",
+    "name": "Components/Icon/hover/base",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2031",
+    "name": "Components/Icon/active/base",
+    "type": "FILL",
+    "color": "#2563eb",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2051",
+    "name": "Desktop/Headline T/H2(14M)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2052",
+    "name": "Components/card/fill",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2053",
+    "name": "Components/card/stroke",
+    "type": "FILL",
+    "color": "#f3f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2054",
+    "name": "Components/card/text",
+    "type": "FILL",
+    "color": "#282828",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2055",
+    "name": "Primitives/02",
+    "type": "FILL",
+    "color": "#161616",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2056",
+    "name": "NEW System/Component/Atoms/(14-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2057",
+    "name": "General/05",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2058",
+    "name": "General/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2059",
+    "name": "Indicator/02",
+    "type": "FILL",
+    "color": "#da9300",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2060",
+    "name": "General/06",
+    "type": "FILL",
+    "color": "#27c10e",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2061",
+    "name": "General/01",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2062",
+    "name": "Indicator/06",
+    "type": "FILL",
+    "color": "#00bbff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2063",
+    "name": "General/04",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2064",
+    "name": "General/03",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2065",
+    "name": "Icon/02",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2107",
+    "name": "Desktop/Headline T/H2(14R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2133",
+    "name": "Components/selecr/stroke/hover",
+    "type": "FILL",
+    "color": "#eeeeeeee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2134",
+    "name": "Components/selecr/fill/gray",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2135",
+    "name": "Text/placeholder/for gray fill",
+    "type": "FILL",
+    "color": "#b4b4b4",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2136",
+    "name": "Components/selecr/stroke/default",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2137",
+    "name": "Secondary/04",
+    "type": "FILL",
+    "color": "#8f8b9a",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2138",
+    "name": "Desktop/Subtitle T/S1(12R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2139",
+    "name": "Desktop/Subtitle T/S1(12M)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2140",
+    "name": "Primitives/07",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2154",
+    "name": "Stroke/frame",
+    "type": "FILL",
+    "color": "#f3f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2155",
+    "name": "Fill/disable/primary",
+    "type": "FILL",
+    "color": "#aeaeae",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2156",
+    "name": "NEW System/Component/Atoms/(12-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2157",
+    "name": "Primitives/03",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2158",
+    "name": "NEW System/Component/Atoms/(12-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2174",
+    "name": "General/Gray/Stroke02",
+    "type": "FILL",
+    "color": "#d3d3d3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2175",
+    "name": "Modal/30",
+    "type": "EFFECT",
+    "color": "#d9d9d9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2176",
+    "name": "Icon/Icon Grid",
+    "type": "GRID",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2177",
+    "name": "Character/sber",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2183",
+    "name": "Icon/01",
+    "type": "FILL",
+    "color": "#282828",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2188",
+    "name": "Icon/03",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2422",
+    "name": "#28303F",
+    "type": "FILL",
+    "color": "#28303f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2423",
+    "name": "Dark",
+    "type": "FILL",
+    "color": "#28303f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2424",
+    "name": "Components/chekbox radio/fill/default/selected",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2425",
+    "name": "Primitives/00",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2426",
+    "name": "Components/chekbox radio/fill/hover/selected",
+    "type": "FILL",
+    "color": "#433e51",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2427",
+    "name": "Components/chekbox radio/fill/default/unselected",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2428",
+    "name": "Components/chekbox radio/stroke/base",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2429",
+    "name": "Components/chekbox radio/fill/hover/unselected",
+    "type": "FILL",
+    "color": "#e7e7e7",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2443",
+    "name": "NEW System/Component/button/base/S(12-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2444",
+    "name": "Components/button/fill/hover/secondary",
+    "type": "FILL",
+    "color": "#f5f4f4",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2445",
+    "name": "NEW System/Component/button/base/M(14-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2446",
+    "name": "Components/button/fill/hover/primary",
+    "type": "FILL",
+    "color": "#433e51",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2447",
+    "name": "Components/button/text/primary",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2448",
+    "name": "Components/Icon/default/base white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2449",
+    "name": "Primitives/05",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2450",
+    "name": "Components/button/fill/press/primary",
+    "type": "FILL",
+    "color": "#2a2733",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2451",
+    "name": "Components/table/fill for stroke table/white",
+    "type": "FILL",
+    "color": "#e9e9e9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2452",
+    "name": "Components/table/fill slot/hover/for white",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2453",
+    "name": "Components/table/fill slot/default/gray",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2454",
+    "name": "Components/table/text/base",
+    "type": "FILL",
+    "color": "#161616",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2455",
+    "name": "NEW System/Component/table/slot priority/S (12-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2456",
+    "name": "Components/table/fill/default/gray",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2457",
+    "name": "NEW System/Component/table/slot base/S (12-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2458",
+    "name": "Components/table/fill slot/default/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2459",
+    "name": "Components/table/fill/default/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2460",
+    "name": "NEW System/Component/Atoms/(16-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 16,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2461",
+    "name": "SBOL pro/100%",
+    "type": "FILL",
+    "color": "#262626",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2467",
+    "name": "Components/scroll/fill over 2",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2468",
+    "name": "Components/button/fill/default/primary",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2469",
+    "name": "General/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2470",
+    "name": "Components/selecr/stroke/default for gray",
+    "type": "FILL",
+    "color": "#f3f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2471",
+    "name": "Components/chips/fill/default no selected",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2472",
+    "name": "Components/chips/text/default no selected",
+    "type": "FILL",
+    "color": "#8f8b9a",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2473",
+    "name": "NEW System/Component/chips/S (12-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2474",
+    "name": "Components/chips/fill/hover",
+    "type": "FILL",
+    "color": "#cfcece",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2475",
+    "name": "Components/chips/stroke/hover",
+    "type": "FILL",
+    "color": "#d9d9d9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2476",
+    "name": "Components/chips/text/hover no selected",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2477",
+    "name": "Components/chips/fill/default selected",
+    "type": "FILL",
+    "color": "#e5e5e5",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2478",
+    "name": "Components/chips/stroke/default",
+    "type": "FILL",
+    "color": "#cfcece",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2479",
+    "name": "Components/chips/text/default_hover selected",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2480",
+    "name": "NEW System/Component/chips/S (12-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2481",
+    "name": "Components/pin/VSP green/logo 1",
+    "type": "FILL",
+    "color": "#21a038",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2482",
+    "name": "Components/pin/VSP green/logo 2",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2483",
+    "name": "Components/pin/hover",
+    "type": "FILL",
+    "color": "#bfedff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2484",
+    "name": "Components/pin/VSP red/color general",
+    "type": "FILL",
+    "color": "#ff2b2b",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2485",
+    "name": "Components/pin/VSP red/color",
+    "type": "FILL",
+    "color": "#b9ebb9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2486",
+    "name": "Components/pin/VSP red/logo 1",
+    "type": "FILL",
+    "color": "#21a038",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2487",
+    "name": "Components/pin/VSP red/logo 2",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2488",
+    "name": "pin",
+    "type": "EFFECT",
+    "color": "#d9d9d9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2489",
+    "name": "Primitives/skeleton",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2513",
+    "name": "NEW System/Component/Atoms/(14-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2514",
+    "name": "NEW System/Component/table/slot base/S (12-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2515",
+    "name": "Stroke/default for gray",
+    "type": "FILL",
+    "color": "#f3f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2516",
+    "name": "Components/Icon/disabled/for gray",
+    "type": "FILL",
+    "color": "#afafaf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2517",
+    "name": "Components/tooltop/fill/white",
+    "type": "FILL",
+    "color": "#fbfbfb",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2518",
+    "name": "Modal/30",
+    "type": "EFFECT",
+    "color": "#d9d9d9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2519",
+    "name": "NEW System/Component/Atoms/(10-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 10,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2520",
+    "name": "NEW System/Component/tooltip/S (10-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 10,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2521",
+    "name": "Components/scroll/fill over",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2525",
+    "name": "Components/button/icon/active for secondary",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2526",
+    "name": "Components/button/text/active for secondary",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2527",
+    "name": "Components/widget_card/default/fill/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2528",
+    "name": "Components/widget_card/default/stroke/white_gray",
+    "type": "FILL",
+    "color": "#f3f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2529",
+    "name": "widget/default",
+    "type": "EFFECT",
+    "color": "#d9d9d9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2530",
+    "name": "Components/widget_card/default/fill/positive",
+    "type": "FILL",
+    "color": "#ecf6ee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2531",
+    "name": "Components/widget_card/default/stroke/positive",
+    "type": "FILL",
+    "color": "#d8f0df",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2532",
+    "name": "Stroke/shadow",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2533",
+    "name": "Components/droplist/fill/default",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2534",
+    "name": "Components/droplist/text/default",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2535",
+    "name": "NEW System/Component/droplist/L (14-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2536",
+    "name": "Components/droplist/fill/hover",
+    "type": "FILL",
+    "color": "#f4f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2537",
+    "name": "Components/chekbox radio/stroke/base radio",
+    "type": "FILL",
+    "color": "#bab6c3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2538",
+    "name": "NEW System/Component/droplist/S (10-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 10,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2539",
+    "name": "NEW System/Component/droplist/M (12-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2540",
+    "name": "Components/droplist/text/accent",
+    "type": "FILL",
+    "color": "#373737",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2541",
+    "name": "NEW System/Component/droplist/L (14-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2542",
+    "name": "NEW System/Component/Atoms/(18-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 18,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:2550",
+    "name": "Components/Icon/default/base 02",
+    "type": "FILL",
+    "color": "#282828",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2561",
+    "name": "General/White",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:2584",
+    "name": "Indicator/06",
+    "type": "FILL",
+    "color": "#00bbff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3791",
+    "name": "Stroke/separate",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3792",
+    "name": "NEW System/Component/Atoms/(18-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 18,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3793",
+    "name": "NEW System/Component/Atoms/(16-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 16,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3794",
+    "name": "NEW System/Component/Atoms/(11-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 11,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3795",
+    "name": "NEW System/Component/Atoms/(10-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 10,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3905",
+    "name": "NEW System/Component/select/title M (14-Md)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Medium",
+      "postscript": "SBSansText-Medium"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3906",
+    "name": "NEW System/Component/select/text M (12-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3907",
+    "name": "Stroke/hard validation",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3908",
+    "name": "Text/placeholder/hard validation",
+    "type": "FILL",
+    "color": "#fdabab",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3909",
+    "name": "Text/validation/hard",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3910",
+    "name": "NEW System/Component/select/placeholder M (12-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3911",
+    "name": "Components/button/fill/active/secondary",
+    "type": "FILL",
+    "color": "#fbfbfb",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3912",
+    "name": "Components/alert/fill/no success",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3913",
+    "name": "Components/alert/stroke/no success",
+    "type": "FILL",
+    "color": "#feefed",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3914",
+    "name": "Indicator/07",
+    "type": "FILL",
+    "color": "#990000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3915",
+    "name": "Indicator/03",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3916",
+    "name": "Desktop/Subtitle T/S1(12M)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3921",
+    "name": "Components/Icon/default/hard validation",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3922",
+    "name": "Secondary/old/04",
+    "type": "FILL",
+    "color": "#8f8b9a",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3923",
+    "name": "Hover/light",
+    "type": "FILL",
+    "color": "#f4f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3924",
+    "name": "Components/table/fill headline/default/white",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3925",
+    "name": "Components/table/text/base 2",
+    "type": "FILL",
+    "color": "#6f6586",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3926",
+    "name": "Text/default/basa registr",
+    "type": "FILL",
+    "color": "#898398",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3927",
+    "name": "Components/Icon/default/soft validation",
+    "type": "FILL",
+    "color": "#da9300",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3928",
+    "name": "NEW System/Component/table/slot priority/L (14-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3929",
+    "name": "Components/table/text/hard validation",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3930",
+    "name": "NEW System/Component/table/slot base/L (14-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3931",
+    "name": "NEW System/Component/table/slot priority/L (14-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3932",
+    "name": "Components/table/text/positive",
+    "type": "FILL",
+    "color": "#21ab0a",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3933",
+    "name": "Components/table/text/soft validation",
+    "type": "FILL",
+    "color": "#da9300",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3934",
+    "name": "Components/table/fill for stroke table/gray",
+    "type": "FILL",
+    "color": "#d5d5d5",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3935",
+    "name": "Components/table/fill headline/default/light",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3936",
+    "name": "Text/Medium 90%",
+    "type": "FILL",
+    "color": "#313131",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3937",
+    "name": "Desktop/Subtitle/S2(12R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3938",
+    "name": "General/06",
+    "type": "FILL",
+    "color": "#27c10e",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3939",
+    "name": "SBOL pro/24%",
+    "type": "FILL",
+    "color": "#b7b7b7",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3940",
+    "name": "Secondary/old/03",
+    "type": "FILL",
+    "color": "#b6b6b6",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3941",
+    "name": "Components/button/fill/disabled/primary",
+    "type": "FILL",
+    "color": "#aeaeae",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3971",
+    "name": "Components/widget_card/default/fill/gray",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3972",
+    "name": "NEW System/Component/tooltip/M (12-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:3973",
+    "name": "Components/menu item/fill/for white/hover",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3974",
+    "name": "Components/menu item/stroke/hover",
+    "type": "FILL",
+    "color": "#f3f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3975",
+    "name": "Components/menu item/text/default",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3981",
+    "name": "Icon/01",
+    "type": "FILL",
+    "color": "#282828",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:3986",
+    "name": "Icon/03",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4131",
+    "name": "General/02",
+    "type": "FILL",
+    "color": "#161616",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4132",
+    "name": "Secondary/White/50%",
+    "type": "FILL",
+    "color": "#f4f5f5",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4133",
+    "name": "Stroke/separate",
+    "type": "FILL",
+    "color": "#aeaeae",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4134",
+    "name": "Text/disabled/base",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4135",
+    "name": "Text/disabled/lable",
+    "type": "FILL",
+    "color": "#afafaf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4234",
+    "name": "Components/button/stroke/focused",
+    "type": "FILL",
+    "color": "#82cded",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4235",
+    "name": "Components/button/fill/hover/secondary",
+    "type": "FILL",
+    "color": "#f3f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4236",
+    "name": "Components/button/fill/press/secondary",
+    "type": "FILL",
+    "color": "#eeeeee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4237",
+    "name": "Components/button/stroke/text button default",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4238",
+    "name": "Components/button/stroke/text button active",
+    "type": "FILL",
+    "color": "#4e90ac",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4239",
+    "name": "Components/button/fill/active/primary",
+    "type": "FILL",
+    "color": "#6f6586",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4240",
+    "name": "Components/button/icon/active for primary",
+    "type": "FILL",
+    "color": "#82cded",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:4241",
+    "name": "Components/button/text/active for primary",
+    "type": "FILL",
+    "color": "#82cded",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5683",
+    "name": "Components/alert/fill/attention",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5684",
+    "name": "Components/alert/stroke/attention",
+    "type": "FILL",
+    "color": "#ededfe",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5685",
+    "name": "Indicator/04",
+    "type": "FILL",
+    "color": "#0050ff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5686",
+    "name": "Components/agent/stroke/white",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5687",
+    "name": "Components/agent/fill/gray/user message",
+    "type": "FILL",
+    "color": "#d9d9d9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5688",
+    "name": "Components/agent/fill/white/user message",
+    "type": "FILL",
+    "color": "#ededed",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5716",
+    "name": "Components/alert/fill/success",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5717",
+    "name": "Components/alert/stroke/success",
+    "type": "FILL",
+    "color": "#effeed",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5723",
+    "name": "fill_icon",
+    "type": "FILL",
+    "color": "#222222",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5724",
+    "name": "widget/hover",
+    "type": "EFFECT",
+    "color": "#d9d9d9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5725",
+    "name": "Components/widget_card/hover/fill/white",
+    "type": "FILL",
+    "color": "#f4f3f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5726",
+    "name": "Components/widget_card/press/fill/white",
+    "type": "FILL",
+    "color": "#ececec",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5727",
+    "name": "Components/widget_card/hover/fill/positive",
+    "type": "FILL",
+    "color": "#e3f6e9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5728",
+    "name": "Components/widget_card/press/fill/positive",
+    "type": "FILL",
+    "color": "#d4f1dc",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5729",
+    "name": "Components/widget_card/default/stroke/negative",
+    "type": "FILL",
+    "color": "#ffeaea",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5730",
+    "name": "Components/widget_card/hover/fill/negative",
+    "type": "FILL",
+    "color": "#fce7e7",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5731",
+    "name": "Components/widget_card/press/fill/negative",
+    "type": "FILL",
+    "color": "#f5cdcd",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5732",
+    "name": "Components/chekbox radio/stroke/hard validation",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5733",
+    "name": "Components/menu item/fill/for white/default",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "227:5734",
+    "name": "Desktop/Subtitle In/S1(12M)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Interface",
+      "style": "Semibold",
+      "postscript": "SBSansInterface-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "227:5735",
+    "name": "NEW System/Component/table/slot base/L (14-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "228:3194",
+    "name": "Components/chekbox radio/stroke/disabled",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "228:3195",
+    "name": "Components/chekbox radio/stroke/focus",
+    "type": "FILL",
+    "color": "#82cded",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "228:3196",
+    "name": "Components/chekbox radio/fill/disabled",
+    "type": "FILL",
+    "color": "#aeaeae",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "228:3197",
+    "name": "Components/chekbox radio/fill/hard validation",
+    "type": "FILL",
+    "color": "#ff0000",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "228:51795",
+    "name": "Components/droplist/text/disable",
+    "type": "FILL",
+    "color": "#cfcfcf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "228:51796",
+    "name": "NEW System/Component/droplist/M (12-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 12,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "228:51797",
+    "name": "NEW System/Component/droplist/S (10-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 10,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "228:52379",
+    "name": "Components/alert/fill/no success soft",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "228:52380",
+    "name": "Components/alert/stroke/no success soft",
+    "type": "FILL",
+    "color": "#fef9ed",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "229:3194",
+    "name": "Components/Icon/spinner/loading (light)",
+    "type": "FILL",
+    "color": null,
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "229:50397",
+    "name": "Components/selecr/stroke/disabled",
+    "type": "FILL",
+    "color": "#eeeeee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "229:50573",
+    "name": "Secondary/old/01",
+    "type": "FILL",
+    "color": "#a20be9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "229:51979",
+    "name": "Stroke/hover",
+    "type": "FILL",
+    "color": "#eeeeee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "229:51980",
+    "name": "Stroke/focus",
+    "type": "FILL",
+    "color": "#82cded",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "229:57467",
+    "name": "Text/placeholder/soft validation",
+    "type": "FILL",
+    "color": "#f4dfb2",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "229:61640",
+    "name": "Components/table/fill slot/hover/for gray",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "230:54715",
+    "name": "Text/disabled/select",
+    "type": "FILL",
+    "color": "#d6d6d6",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:50257",
+    "name": "Components/table/fill slot/hover/for gray",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:50333",
+    "name": "Components/tooltop/fill/black",
+    "type": "FILL",
+    "color": "#433e51",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:60849",
+    "name": "Components/table/fill/hover/for white",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:60850",
+    "name": "Components/table/fill/hover/for gray",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:60851",
+    "name": "Components/chekbox/fill/default/selected",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:60852",
+    "name": "Components/chekbox/stroke/icon",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:60853",
+    "name": "Components/chekbox/fill/default/unselected",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "232:60854",
+    "name": "Components/chekbox/stroke/dase",
+    "type": "FILL",
+    "color": "#5c546f",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "233:3194",
+    "name": "NEW System/Component/select/title L (16-Md)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Medium",
+      "postscript": "SBSansText-Medium"
+    },
+    "fontSize": 16,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "233:3195",
+    "name": "NEW System/Component/select/placeholder L (14-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "233:3196",
+    "name": "Text/disabled/titlle",
+    "type": "FILL",
+    "color": "#d6d6d6",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "233:3197",
+    "name": "Stroke/disabled",
+    "type": "FILL",
+    "color": "#eeeeee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "233:3198",
+    "name": "Stroke/soft validation",
+    "type": "FILL",
+    "color": "#da9300",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "233:3199",
+    "name": "Text/validation/soft",
+    "type": "FILL",
+    "color": "#da9300",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "233:3200",
+    "name": "NEW System/Component/select/text L (14-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "233:50934",
+    "name": "Components/table/fill headline/hover/light",
+    "type": "FILL",
+    "color": "#e4e4e4",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "233:50935",
+    "name": "Components/table/fill headline/hover/gray",
+    "type": "FILL",
+    "color": "#c3c3c3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "233:50936",
+    "name": "Components/table/fill headline/hover/white",
+    "type": "FILL",
+    "color": "#f7f7f7",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "234:49645",
+    "name": "Components/Icon/disabled/lable",
+    "type": "FILL",
+    "color": "#afafaf",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "234:49646",
+    "name": "Indicator/02",
+    "type": "FILL",
+    "color": "#da9300",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "234:49647",
+    "name": "Indicator/05",
+    "type": "FILL",
+    "color": "#a20be9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "234:49648",
+    "name": "Secondary/01",
+    "type": "FILL",
+    "color": "#a20be9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "234:49649",
+    "name": "Text/default/white",
+    "type": "FILL",
+    "color": "#f1f1f1",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "234:51238",
+    "name": "Secondary/old/01",
+    "type": "FILL",
+    "color": "#a20be9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "235:3194",
+    "name": "NEW System/Component/chips/S (14-R)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Regular",
+      "postscript": "SBSansText-Regular"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "235:3195",
+    "name": "NEW System/Component/chips/S (14-Sm)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "235:52201",
+    "name": "Secondary/old/01",
+    "type": "FILL",
+    "color": "#a20be9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "235:52202",
+    "name": "Desktop/Subtitle T/SO(14M)",
+    "type": "TEXT",
+    "color": "#000000",
+    "font": {
+      "family": "SB Sans Text",
+      "style": "Semibold",
+      "postscript": "SBSansText-Semibold"
+    },
+    "fontSize": 14,
+    "lineHeight": {
+      "value": 100,
+      "units": "PERCENT"
+    }
+  },
+  {
+    "id": "235:52383",
+    "name": "Components/menu item/fill/for gray/default",
+    "type": "FILL",
+    "color": "#f8f8f8",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "235:52384",
+    "name": "Components/menu item/fill/for gray/hover",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "235:52385",
+    "name": "Components/menu item/fill/for gray/press",
+    "type": "FILL",
+    "color": "#efefef",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "235:52386",
+    "name": "Components/menu item/fill/for white/press",
+    "type": "FILL",
+    "color": "#f9f9f9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3194",
+    "name": "Components/pin/VSP TB/color general",
+    "type": "FILL",
+    "color": "#66aeff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3195",
+    "name": "Components/pin/VSP TB/logo 2",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3196",
+    "name": "Components/pin/VSP GOSB/color general",
+    "type": "FILL",
+    "color": "#00ffee",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3197",
+    "name": "Components/pin/VSP GOSB/logo 1",
+    "type": "FILL",
+    "color": "#21a038",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3198",
+    "name": "Components/pin/VSP green/color general",
+    "type": "FILL",
+    "color": "#0f8f61",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3199",
+    "name": "Components/pin/VSP green/color",
+    "type": "FILL",
+    "color": "#b9ebb9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3200",
+    "name": "Components/pin/VSP pinc/color general",
+    "type": "FILL",
+    "color": "#ff2fea",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3201",
+    "name": "Components/pin/VSP pinc/color",
+    "type": "FILL",
+    "color": "#b9ebb9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3202",
+    "name": "Components/pin/VSP pinc/logo 1",
+    "type": "FILL",
+    "color": "#21a038",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3203",
+    "name": "Components/pin/VSP blue/color general",
+    "type": "FILL",
+    "color": "#3043f3",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3204",
+    "name": "Components/pin/VSP blue/color",
+    "type": "FILL",
+    "color": "#b9ebb9",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3205",
+    "name": "Components/pin/VSP blue/logo",
+    "type": "FILL",
+    "color": "#21a038",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3206",
+    "name": "Components/pin/close",
+    "type": "FILL",
+    "color": "#282828",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3207",
+    "name": "Components/pin/VSP TB/logo 1",
+    "type": "FILL",
+    "color": "#21a038",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "236:3208",
+    "name": "Components/pin/VSP GOSB/logo 2",
+    "type": "FILL",
+    "color": "#ffffff",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  },
+  {
+    "id": "237:48923",
+    "name": "Components/table/fill headline/default/gray",
+    "type": "FILL",
+    "color": "#d7d7d7",
+    "font": null,
+    "fontSize": null,
+    "lineHeight": null
+  }
+]

@@ -1,0 +1,7 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { AccessCardDesign, variants } from '../../src/figma/AccessCardDesign';
+const meta={title:"Из макета/Card access_ecs/var · 227:71742",component:AccessCardDesign,tags:["autodocs"],args:{variant:"227:71743",interactive:true},argTypes:{variant:{control:{type:"select",labels:Object.fromEntries(variants.map(v=>[v.id,v.name]))},options:variants.map(v=>v.id)},variantProps:{control:"object"},text:{control:"object"},interactive:{control:"boolean"}},parameters:{docs:{description:{component:"Прямой перенос TSX + CSS Modules из Card access_ecs/var. 4 вариантов. Заменяйте текст через text по имени слоя или ключу из layers.json. Геометрия сохранена из Figma. interactive воспроизводит только заданные переходы прототипа; бизнес-логику задаёт приложение."}}}} satisfies Meta<typeof AccessCardDesign>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+const stateSamples=[{"id":"227:71822","label":"State3"},{"id":"227:71762","label":"State4"},{"id":"227:71781","label":"active"},{"id":"227:71743","label":"default"}] as const;
+export const States:Story={render:args=><div style={{display:"flex",flexWrap:"wrap",gap:24,alignItems:"flex-start"}}>{stateSamples.map(item=><div key={item.id}><p style={{fontSize:12,color:"#8f8b9a"}}>{item.label}</p><AccessCardDesign {...args} variant={item.id} variantProps={undefined} interactive={false}/></div>)}</div>};

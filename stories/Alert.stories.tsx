@@ -1,0 +1,10 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { fn } from 'storybook/test';
+import { Alert, Button, LayerRow } from '../src';
+const meta={title:'Компоненты/Alert',component:Alert,tags:['autodocs'],args:{title:'Данные обновлены',children:'Изменения сохранены',severity:'success',location:'content'}} satisfies Meta<typeof Alert>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+export const Error:Story={args:{severity:'error',title:'Не удалось сохранить'}};
+export const Warning:Story={args:{severity:'warning',title:'Проверьте данные'}};
+export const Info:Story={args:{severity:'info'}};
+export const Push:Story={args:{location:'push',onClose:fn()}};

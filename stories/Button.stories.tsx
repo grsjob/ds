@@ -1,0 +1,14 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { expect, userEvent, within, fn } from 'storybook/test';
+import { Button, Icon, type ButtonProps } from '../src';
+const meta={title:'Компоненты/Button',component:Button,tags:['autodocs'],args:{children:'Согласовать',size:'m',variant:'primary',onClick:fn()},argTypes:{variant:{control:'select',options:['primary','secondary','tertiary','text','icon','iconFill']},size:{control:'inline-radio',options:['xs','s','m','l']},visualState:{control:'select',options:['default','hover','pressed','focused','active']},startIcon:{control:false},endIcon:{control:false}},parameters:{docs:{description:{component:'Размеры из Figma: XS 26, S 32, M 40, L 44 px. disabled блокирует активацию; loading сохраняет подпись и ставит aria-busy; skeleton отключает кнопку. Для icon обязательна aria-label. visualState нужен для визуальной сверки; в приложении работают CSS-псевдоклассы.'}}}} satisfies Meta<typeof Button>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+export const WithIcon:Story={args:{startIcon:<Icon name="plus-18"/>}};
+export const Loading:Story={args:{loading:true}};
+export const Disabled:Story={args:{disabled:true}};
+export const Skeleton:Story={args:{skeleton:true}};
+export const IconOnly:Story={args:{variant:'icon',children:<Icon name="close-16"/>, 'aria-label':'Закрыть'}};
+export const States:Story={render:()=> <div style={{display:'grid',gap:16}}>{(['primary','secondary','tertiary','text'] as const).map(variant=><div key={variant} style={{display:'flex',gap:12,alignItems:'center',flexWrap:'wrap'}}><span style={{width:80}}>{variant}</span>{(['default','hover','pressed','focused','active'] as const).map(visualState=><Button key={visualState} variant={variant} visualState={visualState}>{visualState}</Button>)}<Button variant={variant} disabled>disabled</Button><Button variant={variant} loading>loading</Button></div>)}</div>};
+export const Sizes:Story={render:()=> <div style={{display:'flex',gap:12,alignItems:'center'}}>{(['xs','s','m','l'] as const).map(size=><Button key={size} size={size}>{size.toUpperCase()}</Button>)}</div>};
+export const ClickTest:Story={play:async({canvasElement,args})=>{const canvas=within(canvasElement);await userEvent.click(canvas.getByRole('button',{name:'Согласовать'}));await expect(args.onClick).toHaveBeenCalledOnce();}};

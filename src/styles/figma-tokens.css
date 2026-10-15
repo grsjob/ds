@@ -1,0 +1,290 @@
+/* Generated from Figma. Duplicate names retain unique node identifiers. */
+:root {
+  --figma-219-39: #888888; /* Components/scroll/fill */
+  --figma-219-40: #cfcfcf; /* Components/scroll/fill tema white */
+  --figma-219-50: #5c546f; /* Components/Icon/default/base 01 */
+  --figma-219-51: #5c546f; /* Primitives/04 */
+  --figma-219-96: #27c10e; /* Primitives/06 */
+  --figma-219-1968: #ffffff; /* Components/button/fill/default/secondary */
+  --figma-219-1969: #efefef; /* Components/button/stroke/secondary */
+  --figma-219-1970: #5c546f; /* Components/button/icon/base for secondary */
+  --figma-219-1971: #5c546f; /* Components/button/text/secondary */
+  --figma-219-1972: #000000; /* NEW System/Component/button/base/L(16-Sm) */
+  --figma-219-1975: #000000; /* NEW System/Component/button/base/XS(10-Sm) */
+  --figma-219-1976: #eeeeee; /* Components/button/stroke/disabled */
+  --figma-219-1977: #cfcfcf; /* Components/button/icon/disabled */
+  --figma-219-1978: #d6d6d6; /* Components/button/text/disabled */
+  --figma-219-1982: #f8f8f8; /* Components/button/icon/base for primary */
+  --figma-219-1983: #fbfbfb; /* Components/button/fill/disabled/secondary */
+  --figma-219-3445: #282828; /* Text/default/base 01 */
+  --figma-219-3446: #ffffff; /* Fill/general/white */
+  --figma-219-3447: #cfcfcf; /* Stroke/default */
+  --figma-219-3448: #cfcfcf; /* Components/Icon/disabled/base */
+  --figma-219-3449: #5c546f; /* Text/default/basa 02 */
+  --figma-219-3450: #ffffff; /* Components/selecr/fill/white */
+  --figma-219-3451: #82cded; /* Components/selecr/stroke/pressed */
+  --figma-219-3453: #000000; /* NEW System/Component/Atoms/(11-R) */
+  --figma-219-3454: #4e90ac; /* Components/Icon/default/base 03 */
+  --figma-219-3457: #27c10e; /* Components/Icon/default/positive */
+  --figma-219-3458: #1fbd06; /* Indicator/01 */
+  --figma-224-427: #cfcfcf; /* Text/placeholder/for white fill */
+  --figma-227-2017: #f8f8f8; /* Fill/general/primary */
+  --figma-227-2018: #f8f8f8; /* General/01 */
+  --figma-227-2019: #cfcfcf; /* General/03 */
+  --figma-227-2020: #4e90ac; /* Icon/02 */
+  --figma-227-2021: #5c546f; /* General/04 */
+  --figma-227-2029: #00bbff; /* Components/Icon/default/accent */
+  --figma-227-2030: #4e90ac; /* Components/Icon/hover/base */
+  --figma-227-2031: #2563eb; /* Components/Icon/active/base */
+  --figma-227-2051: #000000; /* Desktop/Headline T/H2(14M) */
+  --figma-227-2052: #ffffff; /* Components/card/fill */
+  --figma-227-2053: #f3f3f3; /* Components/card/stroke */
+  --figma-227-2054: #282828; /* Components/card/text */
+  --figma-227-2055: #161616; /* Primitives/02 */
+  --figma-227-2056: #000000; /* NEW System/Component/Atoms/(14-Sm) */
+  --figma-227-2057: #ff0000; /* General/05 */
+  --figma-227-2058: #ffffff; /* General/white */
+  --figma-227-2059: #da9300; /* Indicator/02 */
+  --figma-227-2060: #27c10e; /* General/06 */
+  --figma-227-2061: #f8f8f8; /* General/01 */
+  --figma-227-2062: #00bbff; /* Indicator/06 */
+  --figma-227-2063: #5c546f; /* General/04 */
+  --figma-227-2064: #cfcfcf; /* General/03 */
+  --figma-227-2065: #4e90ac; /* Icon/02 */
+  --figma-227-2107: #000000; /* Desktop/Headline T/H2(14R) */
+  --figma-227-2133: #eeeeeeee; /* Components/selecr/stroke/hover */
+  --figma-227-2134: #f8f8f8; /* Components/selecr/fill/gray */
+  --figma-227-2135: #b4b4b4; /* Text/placeholder/for gray fill */
+  --figma-227-2136: #cfcfcf; /* Components/selecr/stroke/default */
+  --figma-227-2137: #8f8b9a; /* Secondary/04 */
+  --figma-227-2138: #000000; /* Desktop/Subtitle T/S1(12R) */
+  --figma-227-2139: #000000; /* Desktop/Subtitle T/S1(12M) */
+  --figma-227-2140: #4e90ac; /* Primitives/07 */
+  --figma-227-2154: #f3f3f3; /* Stroke/frame */
+  --figma-227-2155: #aeaeae; /* Fill/disable/primary */
+  --figma-227-2156: #000000; /* NEW System/Component/Atoms/(12-R) */
+  --figma-227-2157: #cfcfcf; /* Primitives/03 */
+  --figma-227-2158: #000000; /* NEW System/Component/Atoms/(12-Sm) */
+  --figma-227-2174: #d3d3d3; /* General/Gray/Stroke02 */
+  --figma-227-2175: #d9d9d9; /* Modal/30 */
+  --figma-227-2176: #ffffff; /* Icon/Icon Grid */
+  --figma-227-2183: #282828; /* Icon/01 */
+  --figma-227-2188: #5c546f; /* Icon/03 */
+  --figma-227-2422: #28303f; /* #28303F */
+  --figma-227-2423: #28303f; /* Dark */
+  --figma-227-2424: #5c546f; /* Components/chekbox radio/fill/default/selected */
+  --figma-227-2425: #ffffff; /* Primitives/00 */
+  --figma-227-2426: #433e51; /* Components/chekbox radio/fill/hover/selected */
+  --figma-227-2427: #ffffff; /* Components/chekbox radio/fill/default/unselected */
+  --figma-227-2428: #5c546f; /* Components/chekbox radio/stroke/base */
+  --figma-227-2429: #e7e7e7; /* Components/chekbox radio/fill/hover/unselected */
+  --figma-227-2443: #000000; /* NEW System/Component/button/base/S(12-Sm) */
+  --figma-227-2444: #f5f4f4; /* Components/button/fill/hover/secondary */
+  --figma-227-2445: #000000; /* NEW System/Component/button/base/M(14-Sm) */
+  --figma-227-2446: #433e51; /* Components/button/fill/hover/primary */
+  --figma-227-2447: #f8f8f8; /* Components/button/text/primary */
+  --figma-227-2448: #ffffff; /* Components/Icon/default/base white */
+  --figma-227-2449: #ff0000; /* Primitives/05 */
+  --figma-227-2450: #2a2733; /* Components/button/fill/press/primary */
+  --figma-227-2451: #e9e9e9; /* Components/table/fill for stroke table/white */
+  --figma-227-2452: #f8f8f8; /* Components/table/fill slot/hover/for white */
+  --figma-227-2453: #f8f8f8; /* Components/table/fill slot/default/gray */
+  --figma-227-2454: #161616; /* Components/table/text/base */
+  --figma-227-2455: #000000; /* NEW System/Component/table/slot priority/S (12-Sm) */
+  --figma-227-2456: #f8f8f8; /* Components/table/fill/default/gray */
+  --figma-227-2457: #000000; /* NEW System/Component/table/slot base/S (12-R) */
+  --figma-227-2458: #ffffff; /* Components/table/fill slot/default/white */
+  --figma-227-2459: #ffffff; /* Components/table/fill/default/white */
+  --figma-227-2460: #000000; /* NEW System/Component/Atoms/(16-Sm) */
+  --figma-227-2461: #262626; /* SBOL pro/100% */
+  --figma-227-2467: #cfcfcf; /* Components/scroll/fill over 2 */
+  --figma-227-2468: #5c546f; /* Components/button/fill/default/primary */
+  --figma-227-2469: #ffffff; /* General/white */
+  --figma-227-2470: #f3f3f3; /* Components/selecr/stroke/default for gray */
+  --figma-227-2471: #efefef; /* Components/chips/fill/default no selected */
+  --figma-227-2472: #8f8b9a; /* Components/chips/text/default no selected */
+  --figma-227-2473: #000000; /* NEW System/Component/chips/S (12-R) */
+  --figma-227-2474: #cfcece; /* Components/chips/fill/hover */
+  --figma-227-2475: #d9d9d9; /* Components/chips/stroke/hover */
+  --figma-227-2476: #5c546f; /* Components/chips/text/hover no selected */
+  --figma-227-2477: #e5e5e5; /* Components/chips/fill/default selected */
+  --figma-227-2478: #cfcece; /* Components/chips/stroke/default */
+  --figma-227-2479: #4e90ac; /* Components/chips/text/default_hover selected */
+  --figma-227-2480: #000000; /* NEW System/Component/chips/S (12-Sm) */
+  --figma-227-2481: #21a038; /* Components/pin/VSP green/logo 1 */
+  --figma-227-2482: #ffffff; /* Components/pin/VSP green/logo 2 */
+  --figma-227-2483: #bfedff; /* Components/pin/hover */
+  --figma-227-2484: #ff2b2b; /* Components/pin/VSP red/color general */
+  --figma-227-2485: #b9ebb9; /* Components/pin/VSP red/color */
+  --figma-227-2486: #21a038; /* Components/pin/VSP red/logo 1 */
+  --figma-227-2487: #ffffff; /* Components/pin/VSP red/logo 2 */
+  --figma-227-2488: #d9d9d9; /* pin */
+  --figma-227-2513: #000000; /* NEW System/Component/Atoms/(14-R) */
+  --figma-227-2514: #000000; /* NEW System/Component/table/slot base/S (12-Sm) */
+  --figma-227-2515: #f3f3f3; /* Stroke/default for gray */
+  --figma-227-2516: #afafaf; /* Components/Icon/disabled/for gray */
+  --figma-227-2517: #fbfbfb; /* Components/tooltop/fill/white */
+  --figma-227-2518: #d9d9d9; /* Modal/30 */
+  --figma-227-2519: #000000; /* NEW System/Component/Atoms/(10-Sm) */
+  --figma-227-2520: #000000; /* NEW System/Component/tooltip/S (10-R) */
+  --figma-227-2521: #f8f8f8; /* Components/scroll/fill over */
+  --figma-227-2525: #4e90ac; /* Components/button/icon/active for secondary */
+  --figma-227-2526: #4e90ac; /* Components/button/text/active for secondary */
+  --figma-227-2527: #ffffff; /* Components/widget_card/default/fill/white */
+  --figma-227-2528: #f3f3f3; /* Components/widget_card/default/stroke/white_gray */
+  --figma-227-2529: #d9d9d9; /* widget/default */
+  --figma-227-2530: #ecf6ee; /* Components/widget_card/default/fill/positive */
+  --figma-227-2531: #d8f0df; /* Components/widget_card/default/stroke/positive */
+  --figma-227-2532: #f8f8f8; /* Stroke/shadow */
+  --figma-227-2533: #ffffff; /* Components/droplist/fill/default */
+  --figma-227-2534: #5c546f; /* Components/droplist/text/default */
+  --figma-227-2535: #000000; /* NEW System/Component/droplist/L (14-R) */
+  --figma-227-2536: #f4f3f3; /* Components/droplist/fill/hover */
+  --figma-227-2537: #bab6c3; /* Components/chekbox radio/stroke/base radio */
+  --figma-227-2538: #000000; /* NEW System/Component/droplist/S (10-R) */
+  --figma-227-2539: #000000; /* NEW System/Component/droplist/M (12-R) */
+  --figma-227-2540: #373737; /* Components/droplist/text/accent */
+  --figma-227-2541: #000000; /* NEW System/Component/droplist/L (14-Sm) */
+  --figma-227-2542: #000000; /* NEW System/Component/Atoms/(18-Sm) */
+  --figma-227-2550: #282828; /* Components/Icon/default/base 02 */
+  --figma-227-2561: #ffffff; /* General/White */
+  --figma-227-2584: #00bbff; /* Indicator/06 */
+  --figma-227-3791: #5c546f; /* Stroke/separate */
+  --figma-227-3792: #000000; /* NEW System/Component/Atoms/(18-R) */
+  --figma-227-3793: #000000; /* NEW System/Component/Atoms/(16-R) */
+  --figma-227-3794: #000000; /* NEW System/Component/Atoms/(11-Sm) */
+  --figma-227-3795: #000000; /* NEW System/Component/Atoms/(10-R) */
+  --figma-227-3905: #000000; /* NEW System/Component/select/title M (14-Md) */
+  --figma-227-3906: #000000; /* NEW System/Component/select/text M (12-R) */
+  --figma-227-3907: #ff0000; /* Stroke/hard validation */
+  --figma-227-3908: #fdabab; /* Text/placeholder/hard validation */
+  --figma-227-3909: #ff0000; /* Text/validation/hard */
+  --figma-227-3910: #000000; /* NEW System/Component/select/placeholder M (12-R) */
+  --figma-227-3911: #fbfbfb; /* Components/button/fill/active/secondary */
+  --figma-227-3913: #feefed; /* Components/alert/stroke/no success */
+  --figma-227-3914: #990000; /* Indicator/07 */
+  --figma-227-3915: #ff0000; /* Indicator/03 */
+  --figma-227-3916: #000000; /* Desktop/Subtitle T/S1(12M) */
+  --figma-227-3921: #ff0000; /* Components/Icon/default/hard validation */
+  --figma-227-3922: #8f8b9a; /* Secondary/old/04 */
+  --figma-227-3923: #f4f3f3; /* Hover/light */
+  --figma-227-3924: #ffffff; /* Components/table/fill headline/default/white */
+  --figma-227-3925: #6f6586; /* Components/table/text/base 2 */
+  --figma-227-3926: #898398; /* Text/default/basa registr */
+  --figma-227-3927: #da9300; /* Components/Icon/default/soft validation */
+  --figma-227-3928: #000000; /* NEW System/Component/table/slot priority/L (14-Sm) */
+  --figma-227-3929: #ff0000; /* Components/table/text/hard validation */
+  --figma-227-3930: #000000; /* NEW System/Component/table/slot base/L (14-R) */
+  --figma-227-3931: #000000; /* NEW System/Component/table/slot priority/L (14-R) */
+  --figma-227-3932: #21ab0a; /* Components/table/text/positive */
+  --figma-227-3933: #da9300; /* Components/table/text/soft validation */
+  --figma-227-3934: #d5d5d5; /* Components/table/fill for stroke table/gray */
+  --figma-227-3935: #efefef; /* Components/table/fill headline/default/light */
+  --figma-227-3936: #313131; /* Text/Medium 90% */
+  --figma-227-3937: #000000; /* Desktop/Subtitle/S2(12R) */
+  --figma-227-3938: #27c10e; /* General/06 */
+  --figma-227-3939: #b7b7b7; /* SBOL pro/24% */
+  --figma-227-3940: #b6b6b6; /* Secondary/old/03 */
+  --figma-227-3941: #aeaeae; /* Components/button/fill/disabled/primary */
+  --figma-227-3971: #f8f8f8; /* Components/widget_card/default/fill/gray */
+  --figma-227-3972: #000000; /* NEW System/Component/tooltip/M (12-R) */
+  --figma-227-3973: #f8f8f8; /* Components/menu item/fill/for white/hover */
+  --figma-227-3974: #f3f3f3; /* Components/menu item/stroke/hover */
+  --figma-227-3975: #5c546f; /* Components/menu item/text/default */
+  --figma-227-3981: #282828; /* Icon/01 */
+  --figma-227-3986: #5c546f; /* Icon/03 */
+  --figma-227-4131: #161616; /* General/02 */
+  --figma-227-4132: #f4f5f5; /* Secondary/White/50% */
+  --figma-227-4133: #aeaeae; /* Stroke/separate */
+  --figma-227-4134: #cfcfcf; /* Text/disabled/base */
+  --figma-227-4135: #afafaf; /* Text/disabled/lable */
+  --figma-227-4234: #82cded; /* Components/button/stroke/focused */
+  --figma-227-4235: #f3f3f3; /* Components/button/fill/hover/secondary */
+  --figma-227-4236: #eeeeee; /* Components/button/fill/press/secondary */
+  --figma-227-4237: #5c546f; /* Components/button/stroke/text button default */
+  --figma-227-4238: #4e90ac; /* Components/button/stroke/text button active */
+  --figma-227-4239: #6f6586; /* Components/button/fill/active/primary */
+  --figma-227-4240: #82cded; /* Components/button/icon/active for primary */
+  --figma-227-4241: #82cded; /* Components/button/text/active for primary */
+  --figma-227-5684: #ededfe; /* Components/alert/stroke/attention */
+  --figma-227-5685: #0050ff; /* Indicator/04 */
+  --figma-227-5687: #d9d9d9; /* Components/agent/fill/gray/user message */
+  --figma-227-5688: #ededed; /* Components/agent/fill/white/user message */
+  --figma-227-5717: #effeed; /* Components/alert/stroke/success */
+  --figma-227-5723: #222222; /* fill_icon */
+  --figma-227-5724: #d9d9d9; /* widget/hover */
+  --figma-227-5725: #f4f3f3; /* Components/widget_card/hover/fill/white */
+  --figma-227-5726: #ececec; /* Components/widget_card/press/fill/white */
+  --figma-227-5727: #e3f6e9; /* Components/widget_card/hover/fill/positive */
+  --figma-227-5728: #d4f1dc; /* Components/widget_card/press/fill/positive */
+  --figma-227-5729: #ffeaea; /* Components/widget_card/default/stroke/negative */
+  --figma-227-5730: #fce7e7; /* Components/widget_card/hover/fill/negative */
+  --figma-227-5731: #f5cdcd; /* Components/widget_card/press/fill/negative */
+  --figma-227-5732: #ff0000; /* Components/chekbox radio/stroke/hard validation */
+  --figma-227-5733: #ffffff; /* Components/menu item/fill/for white/default */
+  --figma-227-5734: #000000; /* Desktop/Subtitle In/S1(12M) */
+  --figma-227-5735: #000000; /* NEW System/Component/table/slot base/L (14-Sm) */
+  --figma-228-3194: #cfcfcf; /* Components/chekbox radio/stroke/disabled */
+  --figma-228-3195: #82cded; /* Components/chekbox radio/stroke/focus */
+  --figma-228-3196: #aeaeae; /* Components/chekbox radio/fill/disabled */
+  --figma-228-3197: #ff0000; /* Components/chekbox radio/fill/hard validation */
+  --figma-228-51795: #cfcfcf; /* Components/droplist/text/disable */
+  --figma-228-51796: #000000; /* NEW System/Component/droplist/M (12-Sm) */
+  --figma-228-51797: #000000; /* NEW System/Component/droplist/S (10-Sm) */
+  --figma-228-52380: #fef9ed; /* Components/alert/stroke/no success soft */
+  --figma-229-50397: #eeeeee; /* Components/selecr/stroke/disabled */
+  --figma-229-50573: #a20be9; /* Secondary/old/01 */
+  --figma-229-51979: #eeeeee; /* Stroke/hover */
+  --figma-229-51980: #82cded; /* Stroke/focus */
+  --figma-229-57467: #f4dfb2; /* Text/placeholder/soft validation */
+  --figma-229-61640: #efefef; /* Components/table/fill slot/hover/for gray */
+  --figma-230-54715: #d6d6d6; /* Text/disabled/select */
+  --figma-232-50257: #efefef; /* Components/table/fill slot/hover/for gray */
+  --figma-232-50333: #433e51; /* Components/tooltop/fill/black */
+  --figma-232-60849: #efefef; /* Components/table/fill/hover/for white */
+  --figma-232-60850: #efefef; /* Components/table/fill/hover/for gray */
+  --figma-232-60851: #5c546f; /* Components/chekbox/fill/default/selected */
+  --figma-232-60852: #ffffff; /* Components/chekbox/stroke/icon */
+  --figma-232-60853: #ffffff; /* Components/chekbox/fill/default/unselected */
+  --figma-232-60854: #5c546f; /* Components/chekbox/stroke/dase */
+  --figma-233-3194: #000000; /* NEW System/Component/select/title L (16-Md) */
+  --figma-233-3195: #000000; /* NEW System/Component/select/placeholder L (14-R) */
+  --figma-233-3196: #d6d6d6; /* Text/disabled/titlle */
+  --figma-233-3197: #eeeeee; /* Stroke/disabled */
+  --figma-233-3198: #da9300; /* Stroke/soft validation */
+  --figma-233-3199: #da9300; /* Text/validation/soft */
+  --figma-233-3200: #000000; /* NEW System/Component/select/text L (14-R) */
+  --figma-233-50934: #e4e4e4; /* Components/table/fill headline/hover/light */
+  --figma-233-50935: #c3c3c3; /* Components/table/fill headline/hover/gray */
+  --figma-233-50936: #f7f7f7; /* Components/table/fill headline/hover/white */
+  --figma-234-49645: #afafaf; /* Components/Icon/disabled/lable */
+  --figma-234-49646: #da9300; /* Indicator/02 */
+  --figma-234-49647: #a20be9; /* Indicator/05 */
+  --figma-234-49648: #a20be9; /* Secondary/01 */
+  --figma-234-49649: #f1f1f1; /* Text/default/white */
+  --figma-234-51238: #a20be9; /* Secondary/old/01 */
+  --figma-235-3194: #000000; /* NEW System/Component/chips/S (14-R) */
+  --figma-235-3195: #000000; /* NEW System/Component/chips/S (14-Sm) */
+  --figma-235-52201: #a20be9; /* Secondary/old/01 */
+  --figma-235-52202: #000000; /* Desktop/Subtitle T/SO(14M) */
+  --figma-235-52383: #f8f8f8; /* Components/menu item/fill/for gray/default */
+  --figma-235-52384: #ffffff; /* Components/menu item/fill/for gray/hover */
+  --figma-235-52385: #efefef; /* Components/menu item/fill/for gray/press */
+  --figma-235-52386: #f9f9f9; /* Components/menu item/fill/for white/press */
+  --figma-236-3194: #66aeff; /* Components/pin/VSP TB/color general */
+  --figma-236-3195: #ffffff; /* Components/pin/VSP TB/logo 2 */
+  --figma-236-3196: #00ffee; /* Components/pin/VSP GOSB/color general */
+  --figma-236-3197: #21a038; /* Components/pin/VSP GOSB/logo 1 */
+  --figma-236-3198: #0f8f61; /* Components/pin/VSP green/color general */
+  --figma-236-3199: #b9ebb9; /* Components/pin/VSP green/color */
+  --figma-236-3200: #ff2fea; /* Components/pin/VSP pinc/color general */
+  --figma-236-3201: #b9ebb9; /* Components/pin/VSP pinc/color */
+  --figma-236-3202: #21a038; /* Components/pin/VSP pinc/logo 1 */
+  --figma-236-3203: #3043f3; /* Components/pin/VSP blue/color general */
+  --figma-236-3204: #b9ebb9; /* Components/pin/VSP blue/color */
+  --figma-236-3205: #21a038; /* Components/pin/VSP blue/logo */
+  --figma-236-3206: #282828; /* Components/pin/close */
+  --figma-236-3207: #21a038; /* Components/pin/VSP TB/logo 1 */
+  --figma-236-3208: #ffffff; /* Components/pin/VSP GOSB/logo 2 */
+  --figma-237-48923: #d7d7d7; /* Components/table/fill headline/default/gray */
+}

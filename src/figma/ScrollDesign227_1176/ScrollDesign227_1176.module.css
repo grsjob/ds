@@ -1,0 +1,4 @@
+.root{vertical-align:middle;isolation:isolate;font-family:var(--ecs-font,"SB Sans Text",Arial,sans-serif);border:0;padding:0;text-align:initial;color:inherit;background:transparent}.root svg{display:block}.root:where(button){cursor:pointer}.root:where(button):focus-visible{outline:2px solid var(--ecs-focus,#82cded);outline-offset:2px}.root:where(button):disabled{cursor:default}
+.n0{position:relative;display:inline-block;box-sizing:border-box;width:4px;height:46px;flex-shrink:0;background:rgba(207,207,207,1);border-radius:20px 20px 20px 20px}
+.n1{position:absolute;display:block;box-sizing:border-box;width:2px;height:44px;flex-shrink:0;left:1px;top:1px;background:rgba(136,136,136,1);border-radius:20px 20px 20px 20px}
+.n2{position:relative;display:inline-block;box-sizing:border-box;width:4px;height:46px;flex-shrink:0;background:rgba(248,248,248,1);border-radius:20px 20px 20px 20px}

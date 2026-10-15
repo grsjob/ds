@@ -1,0 +1,26 @@
+import { forwardRef, useId, type ButtonHTMLAttributes, type HTMLAttributes, type ReactNode, type SVGProps } from 'react';
+import iconData from '../generated/icons.json';
+import { LogoDesign } from '../figma/LogoDesign';
+import { cx, type Size, type Tone, type VisualState } from './shared';
+import s from './Primitives.module.css';
+export type IconName = keyof typeof iconData;
+export interface IconProps extends Omit<SVGProps<SVGSVGElement>, 'name'> { name: IconName; size?: number; label?: string }
+export function Icon({ name, size, label, ...props }: IconProps) {
+  const icon = iconData[name]; const id = useId();
+  if (!icon) return null;
+  return <svg {...props} width={size ?? icon.width} height={size ?? icon.height} viewBox={`0 0 ${icon.width} ${icon.height}`} fill="currentColor" role={label ? 'img' : undefined} aria-hidden={label ? undefined : true} aria-labelledby={label ? id : undefined} focusable="false">{label && <title id={id}>{label}</title>}{icon.paths.map((p, i) => <path key={i} d={p.d} transform={p.transform} fillRule={p.fillRule as 'nonzero' | 'evenodd'}/>)}</svg>;
+}
+export const iconNames = Object.keys(iconData) as IconName[];
+export function Spinner({ size = 18, label = 'Загрузка' }: { size?: number; label?: string }) { return <span className={s.spinner} style={{ width: size, height: size }} role="status"><span className={s.srOnly}>{label}</span></span>; }
+export function Skeleton({ width = '100%', height = 16, circle = false, label = 'Загрузка', className, ...props }: HTMLAttributes<HTMLSpanElement> & { width?: number | string; height?: number; circle?: boolean; label?: string }) { return <span {...props} className={cx(s.skeleton, circle && s.circle, className)} style={{ width, height, ...props.style }} role="status" aria-label={label}/>; }
+export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> { variant?: 'primary' | 'secondary' | 'tertiary' | 'text' | 'icon' | 'iconFill'; size?: Size; loading?: boolean; skeleton?: boolean; startIcon?: ReactNode; endIcon?: ReactNode; active?: boolean; visualState?: VisualState }
+export const Button = forwardRef<HTMLButtonElement, ButtonProps>(function Button({ variant = 'primary', size = 'm', loading, skeleton, startIcon, endIcon, active, visualState, className, disabled, children, type = 'button', ...props }, ref) {
+  return <button {...props} ref={ref} type={type} className={cx(s.button, s[variant], s[size], className)} disabled={disabled || loading || skeleton} aria-busy={loading || skeleton || undefined} data-state={visualState} data-active={active || undefined}>{skeleton ? <Skeleton width={54} height={12}/> : <>{loading ? <Spinner size={size === 'xs' ? 12 : 16}/> : startIcon}{children}{endIcon}</>}</button>;
+});
+export function Badge({ tone = 'gray', size = 's', disabled, startIcon, endIcon, children, className, ...props }: HTMLAttributes<HTMLSpanElement> & { tone?: Tone; size?: 's' | 'l'; disabled?: boolean; startIcon?: ReactNode; endIcon?: ReactNode }) { return <span {...props} className={cx(s.badge, s[tone], size === 'l' && s.badgeLarge, disabled && s.disabled, className)}>{startIcon}{children}{endIcon}</span>; }
+export interface ChipProps extends ButtonHTMLAttributes<HTMLButtonElement> { selected?: boolean; size?: 'xs' | 's'; onRemove?: () => void }
+export function Chip({ selected, size = 's', onRemove, children, className, ...props }: ChipProps) { return <span className={cx(s.chipGroup, className)}><button type="button" {...props} aria-pressed={selected} className={cx(s.chip, selected && s.selected, size === 'xs' && s.chipXs)}>{children}</button>{onRemove && <button type="button" disabled={props.disabled} className={s.chipRemove} aria-label={`Удалить ${typeof children === 'string' ? children : 'фильтр'}`} onClick={onRemove}>×</button>}</span>; }
+export function Avatar({ name, src, size = 32, online, editor, ...props }: HTMLAttributes<HTMLSpanElement> & { name: string; src?: string; size?: number; online?: boolean; editor?: boolean }) { return <span {...props} className={cx(s.avatar, editor && s.editor, props.className)} style={{ width: size, height: size, ...props.style }} role="img" aria-label={name}>{src ? <img src={src} alt=""/> : name.split(/\s+/).slice(0,2).map(x => x[0]).join('')}{online && <span className={s.online}/>}</span>; }
+export function Text({ size = 14, weight = 'regular', muted, children, className, ...props }: HTMLAttributes<HTMLSpanElement> & { size?: 10 | 12 | 14 | 16 | 18 | 20 | 24 | 32; weight?: 'regular' | 'semibold'; muted?: boolean }) { return <span {...props} className={cx(s.text, muted && s.muted, className)} style={{ fontSize: size, fontWeight: weight === 'semibold' ? 600 : 400, ...props.style }}>{children}</span>; }
+export function Divider(props: HTMLAttributes<HTMLHRElement>) { return <hr {...props} className={cx(s.divider, props.className)}/>; }
+export function Logo({ system = 'ЕЦС', ...props }: HTMLAttributes<HTMLSpanElement> & { system?: string }) { return <span {...props} className={cx(s.logo, props.className)}>{['ЕЦС','ECS','AI','BT','Geo'].includes(system)?<LogoDesign variantProps={{Size:'30',Tema:'on',System:(system==='ЕЦС'?'ECS':system) as 'ECS'|'AI'|'BT'|'Geo'}} interactive={false} aria-label={system}/>:system}</span>; }

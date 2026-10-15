@@ -1,0 +1,11 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { fn } from 'storybook/test';
+import { ObjectCard, Button, LayerRow } from '../src';
+const meta={title:'ЕЦС/ObjectCard',component:ObjectCard,tags:['autodocs'],args:{title:'Офис 0342',subtitle:'Москва, ул. Вавилова, 19',status:'green',statusLabel:'Согласовано',history:[{label:'Сегмент',value:'Розничный'},{label:'Обновлено',value:'15.10.2026'},{label:'Ответственный',value:'Иван Петров'}],onAction:fn(),onSelect:fn()}} satisfies Meta<typeof ObjectCard>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+export const Rejected:Story={args:{status:'rejected',statusLabel:'Не согласовано',rejectionReason:'Уточните параметры офиса'}};
+export const Selected:Story={args:{selected:true}};
+export const Choice:Story={args:{status:'choice',statusLabel:'Выберите офис',history:[]}};
+export const Accept:Story={args:{status:'accept',history:[],actionLabel:'Подтвердить'}};
+export const Skeleton:Story={args:{loading:true}};

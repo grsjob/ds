@@ -1,0 +1,7 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { ChekboxVarDesign232_60855, variants } from '../../src/figma/ChekboxVarDesign232_60855';
+const meta={title:"Из макета/Chekbox/var · 232:60855",component:ChekboxVarDesign232_60855,tags:["autodocs"],args:{variant:"232:60856",interactive:true},argTypes:{variant:{control:{type:"select",labels:Object.fromEntries(variants.map(v=>[v.id,v.name]))},options:variants.map(v=>v.id)},variantProps:{control:"object"},text:{control:"object"},interactive:{control:"boolean"}},parameters:{docs:{description:{component:"Прямой перенос TSX + CSS Modules из Chekbox/var. 6 вариантов. Заменяйте текст через text по имени слоя или ключу из layers.json. Геометрия сохранена из Figma. interactive воспроизводит только заданные переходы прототипа; бизнес-логику задаёт приложение."}}}} satisfies Meta<typeof ChekboxVarDesign232_60855>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+const stateSamples=[{"id":"232:60857","label":"partial"},{"id":"232:60856","label":"selected"},{"id":"232:60859","label":"un selected"}] as const;
+export const States:Story={render:args=><div style={{display:"flex",flexWrap:"wrap",gap:24,alignItems:"flex-start"}}>{stateSamples.map(item=><div key={item.id}><p style={{fontSize:12,color:"#8f8b9a"}}>{item.label}</p><ChekboxVarDesign232_60855 {...args} variant={item.id} variantProps={undefined} interactive={false}/></div>)}</div>};

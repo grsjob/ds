@@ -1,0 +1,10 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { fn } from 'storybook/test';
+import { LayerRow, Button } from '../src';
+const meta={title:'ЕЦС/LayerRow',component:LayerRow,tags:['autodocs'],args:{label:'Офисы',view:'value',children:'24'}} satisfies Meta<typeof LayerRow>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+export const Switch:Story={args:{view:'switch',checked:true,onCheckedChange:fn(),children:undefined}};
+export const Select:Story={args:{view:'select',value:'all',options:[{value:'all',label:'Все офисы'}],children:undefined}};
+export const Opacity:Story={args:{view:'opacity',opacity:50,onOpacityChange:fn(),children:undefined}};
+export const Skeleton:Story={args:{loading:true}};

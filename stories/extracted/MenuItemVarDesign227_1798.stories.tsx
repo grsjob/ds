@@ -1,0 +1,7 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { MenuItemVarDesign227_1798, variants } from '../../src/figma/MenuItemVarDesign227_1798';
+const meta={title:"Из макета/Menu item/var  · 227:1798",component:MenuItemVarDesign227_1798,tags:["autodocs"],args:{variant:"227:1806",interactive:true},argTypes:{variant:{control:{type:"select",labels:Object.fromEntries(variants.map(v=>[v.id,v.name]))},options:variants.map(v=>v.id)},variantProps:{control:"object"},text:{control:"object"},interactive:{control:"boolean"}},parameters:{docs:{description:{component:"Прямой перенос TSX + CSS Modules из Menu item/var . 16 вариантов. Заменяйте текст через text по имени слоя или ключу из layers.json. Геометрия сохранена из Figma. interactive воспроизводит только заданные переходы прототипа; бизнес-логику задаёт приложение."}}}} satisfies Meta<typeof MenuItemVarDesign227_1798>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+const stateSamples=[{"id":"227:1806","label":"default"},{"id":"227:1799","label":"hover"},{"id":"235:52415","label":"press"},{"id":"227:1802","label":"sceleton"}] as const;
+export const States:Story={render:args=><div style={{display:"flex",flexWrap:"wrap",gap:24,alignItems:"flex-start"}}>{stateSamples.map(item=><div key={item.id}><p style={{fontSize:12,color:"#8f8b9a"}}>{item.label}</p><MenuItemVarDesign227_1798 {...args} variant={item.id} variantProps={undefined} interactive={false}/></div>)}</div>};

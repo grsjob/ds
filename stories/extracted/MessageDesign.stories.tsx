@@ -1,0 +1,7 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { MessageDesign, variants } from '../../src/figma/MessageDesign';
+const meta={title:"Из макета/mess/var · 227:1125",component:MessageDesign,tags:["autodocs"],args:{variant:"227:1126",interactive:true},argTypes:{variant:{control:{type:"select",labels:Object.fromEntries(variants.map(v=>[v.id,v.name]))},options:variants.map(v=>v.id)},variantProps:{control:"object"},text:{control:"object"},interactive:{control:"boolean"}},parameters:{docs:{description:{component:"Прямой перенос TSX + CSS Modules из mess/var. 37 вариантов. Заменяйте текст через text по имени слоя или ключу из layers.json. Геометрия сохранена из Figma. interactive воспроизводит только заданные переходы прототипа; бизнес-логику задаёт приложение."}}}} satisfies Meta<typeof MessageDesign>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};
+const stateSamples=[{"id":"227:1140","label":"answer"},{"id":"227:1154","label":"answer end"},{"id":"234:51766","label":"delited"},{"id":"227:1166","label":"mess"},{"id":"227:1126","label":"mess after"},{"id":"234:51795","label":"typing"}] as const;
+export const States:Story={render:args=><div style={{display:"flex",flexWrap:"wrap",gap:24,alignItems:"flex-start"}}>{stateSamples.map(item=><div key={item.id}><p style={{fontSize:12,color:"#8f8b9a"}}>{item.label}</p><MessageDesign {...args} variant={item.id} variantProps={undefined} interactive={false}/></div>)}</div>};

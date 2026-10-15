@@ -1,0 +1,5 @@
+import type { Meta, StoryObj } from '@storybook/react-vite';
+import { InterfaceEssentialChat1Design227_5718, variants } from '../../src/figma/InterfaceEssentialChat1Design227_5718';
+const meta={title:"Из макета/Interface essential/Chat-1 · 227:5718",component:InterfaceEssentialChat1Design227_5718,tags:["autodocs"],args:{variant:"227:5719",interactive:true},argTypes:{variant:{control:{type:"select",labels:Object.fromEntries(variants.map(v=>[v.id,v.name]))},options:variants.map(v=>v.id)},variantProps:{control:"object"},text:{control:"object"},interactive:{control:"boolean"}},parameters:{docs:{description:{component:"Прямой перенос TSX + CSS Modules из Interface essential/Chat-1. 2 вариантов. Заменяйте текст через text по имени слоя или ключу из layers.json. Геометрия сохранена из Figma. interactive воспроизводит только заданные переходы прототипа; бизнес-логику задаёт приложение."}}}} satisfies Meta<typeof InterfaceEssentialChat1Design227_5718>;
+export default meta;type Story=StoryObj<typeof meta>;
+export const Default:Story={};

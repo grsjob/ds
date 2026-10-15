@@ -1,0 +1,8 @@
+.root{vertical-align:middle;isolation:isolate;font-family:var(--ecs-font,"SB Sans Text",Arial,sans-serif);border:0;padding:0;text-align:initial;color:inherit;background:transparent}.root svg{display:block}.root:where(button){cursor:pointer}.root:where(button):focus-visible{outline:2px solid var(--ecs-focus,#82cded);outline-offset:2px}.root:where(button):disabled{cursor:default}
+.n0{position:relative;display:inline-block;box-sizing:border-box;width:28px;height:28px;flex-shrink:0;background:rgba(233,233,233,1);border-radius:5px 5px 5px 5px}
+.n1{position:absolute;display:block;box-sizing:border-box;width:24px;height:24px;flex-shrink:0;left:2px;top:2px;overflow:hidden}
+.n2{position:absolute;display:block;box-sizing:border-box;width:18px;height:16px;flex-shrink:0;left:3px;top:4.00036px}
+.n3{position:relative;display:inline-block;box-sizing:border-box;width:28px;height:28px;flex-shrink:0;background:linear-gradient(88.79366deg,rgba(217,217,217,1) 0%,rgba(186,186,186,1) 51.44231%,rgba(209,209,209,1) 100%);border-radius:5px 5px 5px 5px}
+.n4{position:relative;display:inline-block;box-sizing:border-box;width:28px;height:28px;flex-shrink:0;background:rgba(217,217,217,1);border-radius:5px 5px 5px 5px}
+.n5{position:relative;display:inline-block;box-sizing:border-box;width:28px;height:28px;flex-shrink:0;border-radius:5px 5px 5px 5px}
+.n6{position:relative;display:inline-block;box-sizing:border-box;width:28px;height:28px;flex-shrink:0;background:rgba(255,255,255,1);border-radius:5px 5px 5px 5px}

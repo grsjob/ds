@@ -1,0 +1,15 @@
+.root{vertical-align:middle;isolation:isolate;font-family:var(--ecs-font,"SB Sans Text",Arial,sans-serif);border:0;padding:0;text-align:initial;color:inherit;background:transparent}.root svg{display:block}.root:where(button){cursor:pointer}.root:where(button):focus-visible{outline:2px solid var(--ecs-focus,#82cded);outline-offset:2px}.root:where(button):disabled{cursor:default}
+.n0{position:relative;display:inline-block;box-sizing:border-box;width:30px;height:16px;flex-shrink:0}
+.n1{position:absolute;display:block;box-sizing:border-box;width:30px;height:16px;flex-shrink:0;left:0px;top:0px}
+.n2{position:absolute;display:block;box-sizing:border-box;width:30px;height:16px;flex-shrink:0;left:0px;top:-0px;background:rgba(92,84,111,1);outline:0.36765px solid rgba(207,207,207,1);outline-offset:-0.36765px;border-radius:75px 75px 75px 75px}
+.n3{position:absolute;display:block;box-sizing:border-box;width:14px;height:14px;flex-shrink:0;left:14.86328px;top:1px}
+.n4{position:absolute;display:block;box-sizing:border-box;width:30px;height:16px;flex-shrink:0;left:0px;top:-0px;background:rgba(183,183,183,1);outline:0.36765px solid rgba(182,182,182,1);outline-offset:-0.36765px;border-radius:75px 75px 75px 75px}
+.n5{position:absolute;display:block;box-sizing:border-box;width:14px;height:14px;flex-shrink:0;left:1.1543px;top:1px}
+.n6{position:relative;display:inline-block;box-sizing:border-box;width:40px;height:22px;flex-shrink:0}
+.n7{position:absolute;display:block;box-sizing:border-box;width:40px;height:22px;flex-shrink:0;left:0px;top:0px;background:rgba(92,84,111,1);outline:0.5px solid rgba(207,207,207,1);outline-offset:-0.5px;border-radius:100px 100px 100px 100px}
+.n8{position:absolute;display:block;box-sizing:border-box;width:20px;height:20px;flex-shrink:0;left:18.97215px;top:1px}
+.n9{position:relative;display:inline-block;box-sizing:border-box;width:40px;height:22px;flex-shrink:0;opacity:0.4}
+.n10{position:absolute;display:block;box-sizing:border-box;width:40px;height:22px;flex-shrink:0;left:0px;top:0px}
+.n11{position:relative;display:inline-block;box-sizing:border-box;width:30px;height:16px;flex-shrink:0;opacity:0.4}
+.n12{position:absolute;display:block;box-sizing:border-box;width:40px;height:22px;flex-shrink:0;left:0px;top:0px;background:rgba(183,183,183,1);outline:0.5px solid rgba(182,182,182,1);outline-offset:-0.5px;border-radius:100px 100px 100px 100px}
+.n13{position:absolute;display:block;box-sizing:border-box;width:20px;height:20px;flex-shrink:0;left:0.97168px;top:1px}

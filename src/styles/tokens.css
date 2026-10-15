@@ -1,0 +1,15 @@
+@import './figma-tokens.css';
+:root {
+  --ecs-font: 'SB Sans Text', Arial, sans-serif;
+  --ecs-text: #282828; --ecs-brand: #5c546f; --ecs-muted: #8f8b9a;
+  --ecs-placeholder: #b4b4b4; --ecs-disabled-text: #cfcfcf;
+  --ecs-primary-hover: #433e51; --ecs-primary-press: #2a2733; --ecs-primary-active: #6f6586;
+  --ecs-surface: #fff; --ecs-canvas: #f8f8f8; --ecs-gray: #efefef; --ecs-hover: #f3f3f3; --ecs-press: #eee;
+  --ecs-border: #efefef; --ecs-border-strong: #cfcfcf;
+  --ecs-accent: #4e90ac; --ecs-focus: #82cded;
+  --ecs-danger: #ff0000; --ecs-danger-soft: #fff0ed; --ecs-warning: #da9300; --ecs-warning-soft: #fff7e5;
+  --ecs-success: #21ab0a; --ecs-success-soft: #edf8eb; --ecs-info-soft: #eaf5fa;
+  --ecs-radius-xs: 4px; --ecs-radius-sm: 8px; --ecs-radius-md: 10px; --ecs-radius-lg: 20px;
+  --ecs-space-1: 4px; --ecs-space-2: 8px; --ecs-space-3: 12px; --ecs-space-4: 16px; --ecs-space-5: 20px; --ecs-space-6: 24px;
+  --ecs-shadow: 0 8px 32px #28203318; --ecs-duration: 140ms;
+}

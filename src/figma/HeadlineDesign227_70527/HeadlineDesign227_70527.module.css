@@ -1,0 +1,3 @@
+.root{vertical-align:middle;isolation:isolate;font-family:var(--ecs-font,"SB Sans Text",Arial,sans-serif);border:0;padding:0;text-align:initial;color:inherit;background:transparent}.root svg{display:block}.root:where(button){cursor:pointer}.root:where(button):focus-visible{outline:2px solid var(--ecs-focus,#82cded);outline-offset:2px}.root:where(button):disabled{cursor:default}
+.n0{position:relative;display:inline-block;box-sizing:border-box;width:20px;height:20px;flex-shrink:0}
+.n1{position:absolute;display:block;box-sizing:border-box;width:15px;height:15px;flex-shrink:0;left:2.5px;top:2.5px}

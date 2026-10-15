@@ -1,0 +1,37 @@
+.root{vertical-align:middle;isolation:isolate;font-family:var(--ecs-font,"SB Sans Text",Arial,sans-serif);border:0;padding:0;text-align:initial;color:inherit;background:transparent}.root svg{display:block}.root:where(button){cursor:pointer}.root:where(button):focus-visible{outline:2px solid var(--ecs-focus,#82cded);outline-offset:2px}.root:where(button):disabled{cursor:default}
+.n0{position:relative;display:inline-block;box-sizing:border-box;width:36px;height:20px;flex-shrink:0}
+.n1{position:absolute;display:block;box-sizing:border-box;width:36px;height:20px;flex-shrink:0;left:0px;top:0px}
+.n2{position:absolute;display:block;box-sizing:border-box;width:36px;height:20px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:16px;font-weight:600;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n3{position:relative;display:inline-block;box-sizing:border-box;width:40px;height:23px;flex-shrink:0}
+.n4{position:absolute;display:block;box-sizing:border-box;width:40px;height:23px;flex-shrink:0;left:0px;top:0px}
+.n5{position:absolute;display:block;box-sizing:border-box;width:40px;height:23px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:18px;font-weight:600;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n6{position:relative;display:inline-block;box-sizing:border-box;width:38px;height:23px;flex-shrink:0}
+.n7{position:absolute;display:block;box-sizing:border-box;width:38px;height:23px;flex-shrink:0;left:0px;top:0px}
+.n8{position:absolute;display:block;box-sizing:border-box;width:38px;height:23px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:18px;font-weight:400;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n9{position:relative;display:inline-block;box-sizing:border-box;width:34px;height:20px;flex-shrink:0}
+.n10{position:absolute;display:block;box-sizing:border-box;width:34px;height:20px;flex-shrink:0;left:0px;top:0px}
+.n11{position:absolute;display:block;box-sizing:border-box;width:34px;height:20px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:16px;font-weight:400;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n12{position:relative;display:inline-block;box-sizing:border-box;width:31px;height:18px;flex-shrink:0}
+.n13{position:absolute;display:block;box-sizing:border-box;width:31px;height:18px;flex-shrink:0;left:0px;top:0px}
+.n14{position:absolute;display:block;box-sizing:border-box;width:31px;height:18px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:14px;font-weight:600;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n15{position:relative;display:inline-block;box-sizing:border-box;width:30px;height:18px;flex-shrink:0}
+.n16{position:absolute;display:block;box-sizing:border-box;width:30px;height:18px;flex-shrink:0;left:0px;top:0px}
+.n17{position:absolute;display:block;box-sizing:border-box;width:30px;height:18px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:14px;font-weight:400;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n18{position:relative;display:inline-block;box-sizing:border-box;width:27px;height:15px;flex-shrink:0}
+.n19{position:absolute;display:block;box-sizing:border-box;width:27px;height:15px;flex-shrink:0;left:0px;top:0px}
+.n20{position:absolute;display:block;box-sizing:border-box;width:27px;height:15px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:12px;font-weight:600;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n21{position:relative;display:inline-block;box-sizing:border-box;width:26px;height:15px;flex-shrink:0}
+.n22{position:absolute;display:block;box-sizing:border-box;width:26px;height:15px;flex-shrink:0;left:0px;top:0px}
+.n23{position:absolute;display:block;box-sizing:border-box;width:26px;height:15px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:12px;font-weight:400;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n24{position:relative;display:inline-block;box-sizing:border-box;width:25px;height:14px;flex-shrink:0}
+.n25{position:absolute;display:block;box-sizing:border-box;width:25px;height:14px;flex-shrink:0;left:0px;top:0px}
+.n26{position:absolute;display:block;box-sizing:border-box;width:25px;height:14px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:11px;font-weight:600;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n27{position:relative;display:inline-block;box-sizing:border-box;width:23px;height:14px;flex-shrink:0}
+.n28{position:absolute;display:block;box-sizing:border-box;width:23px;height:14px;flex-shrink:0;left:0px;top:0px}
+.n29{position:absolute;display:block;box-sizing:border-box;width:23px;height:14px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:11px;font-weight:400;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n30{position:relative;display:inline-block;box-sizing:border-box;width:23px;height:13px;flex-shrink:0}
+.n31{position:absolute;display:block;box-sizing:border-box;width:23px;height:13px;flex-shrink:0;left:0px;top:0px}
+.n32{position:absolute;display:block;box-sizing:border-box;width:23px;height:13px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:10px;font-weight:600;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}
+.n33{position:relative;display:inline-block;box-sizing:border-box;width:21px;height:13px;flex-shrink:0}
+.n34{position:absolute;display:block;box-sizing:border-box;width:21px;height:13px;flex-shrink:0;left:0px;top:0px}
+.n35{position:absolute;display:block;box-sizing:border-box;width:21px;height:13px;flex-shrink:0;left:0px;top:0px;font-family:"SB Sans Text",Arial,sans-serif;font-size:10px;font-weight:400;white-space:pre-wrap;overflow-wrap:normal;margin:0;line-height:1;color:rgba(92,84,111,1)}

@@ -1,0 +1,1 @@
+.reference{display:flex;flex-direction:column;gap:16px;max-width:1000px}.props{display:flex;flex-wrap:wrap;gap:5px}.canvas{overflow:auto;max-width:100%;min-height:120px;border:1px solid #eee;border-radius:12px;padding:32px;background:repeating-conic-gradient(#fafafa 0% 25%,white 0% 50%) 50% / 16px 16px}.canvas>svg{display:block;flex-shrink:0}
